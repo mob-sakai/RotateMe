@@ -31,13 +31,12 @@
 					"npmPublish": false
 				}
 			],
-			"@semantic-release/git",
 			[
 				"@semantic-release/exec",
 				{
 					"verifyConditionsCmd": "git subtree split --prefix=$SRC -b upm && git checkout upm",
-					"successCmd": "echo @@@@ SUCCESS $SRC",
-					"failCmd": "echo @@@@ FAILED $SRC"
+					"successCmd": "git checkout -f develop",
+					"failCmd": "git checkout -f develop"
 				}
 			]
 		]
