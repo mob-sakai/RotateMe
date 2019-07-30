@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -ex
 
 if test $# -eq 0
 then
@@ -6,12 +6,11 @@ then
 fi
 
 OPTS_SPEC="\
-git-snapshot   --prefix=<prefix> --message=<message> --branch=<branch>
-git-snapshot   -p <prefix> -m <message> -b <branch>
-git-snapshot   -v
+git-subtree-merge   --prefix=<prefix> --message=<message> --branch=<branch>
+git-subtree-merge   -v
 --
 h,help        show the help
-v,version     print git-snapshot version
+v,version     print git-subtree-merge version
 p,prefix=     the name of the subdir to split out
 m,message=    commit message
 b,branch=     branch for split to
@@ -31,9 +30,9 @@ do
 	-b)
 		branch="$1" && shift;;
 	-v)
-		version=`npm list git-snapshot --depth=0 | grep git-snapshot`
-		[ -e "$version" ] && version=`npm list git-snapshot --depth=0 -g | grep git-snapshot`
-		echo $version | sed -e 's/.*git-snapshot@\([0-9\.]*\).*/\1/'
+		version=`npm list git-subtree-merge --depth=0 | grep git-subtree-merge`
+		[ -e "$version" ] && version=`npm list git-subtree-merge --depth=0 -g | grep git-subtree-merge`
+		echo $version | sed -e 's/.*git-subtree-merge@\([0-9\.]*\).*/\1/'
 		exit 0;;
 	-h)
     	echo ${OPTS_SPEC} && exit 0;;
@@ -46,38 +45,53 @@ done
 
 [ -z "$prefix" ] && echo "You must provide the --prefix option." && exit 1
 [ -z "$branch" ] && echo "You must provide the --branch option." && exit 1
+[ -z "$message" ] && echo "You must provide the --message option." && exit 1
 
 
-# 1. << Stash before task >>
-current_branch=`git rev-parse --abbrev-ref HEAD`
-stash_count=`git stash list | wc -l | tr -d ' '`
-git stash save -u
-[ ${stash_count} != `git stash list | wc -l | tr -d ' '` ] && stash_saved=true
+current_rev=`git rev-parse HEAD`
+subtree_rev=`git rev-parse $branch`
+
+message="$message\n\n \
+git-subtree-dir: $prefix\n \
+git-subtree-mainline: $current_rev\n \
+git-subtree-split: $subtree_rev"
+
+exit 0
 
 
-# 2. << Take a snapshot of the files >>
-tmp=$(mktemp -d)
-mv -f ${prefix}/* ${tmp}
+git merge --allow-unrelated-histories -Xsubtree="$prefix" $branch -m "$message"
 
 
-# 3. << Switch branch and clean >>
-git show-ref --quiet refs/heads/${branch} && git checkout -f ${branch} || git checkout --orphan ${branch}
-git reset --hard
-git clean -fd
-git rm -rf --ignore-unmatch *
+
+# current_branch=`git rev-parse --abbrev-ref HEAD`
+# stash_count=`git stash list | wc -l | tr -d ' '`
+# git stash save -u
+# [ ${stash_count} != `git stash list | wc -l | tr -d ' '` ] && stash_saved=true
 
 
-# 4. << restore the snapshot >>
-cp -rf ${tmp}/* .
+# # 2. << Take a snapshot of the files >>
+# tmp=$(mktemp -d)
+# mv -f ${prefix}/* ${tmp}
 
 
-# 5. << commit changes >>
-git add -A
-[ -n "${message}" ] && git commit -m "${message}" || git commit
+# # 3. << Switch branch and clean >>
+# git show-ref --quiet refs/heads/${branch} && git checkout -f ${branch} || git checkout --orphan ${branch}
+# git reset --hard
+# git clean -fd
+# git rm -rf --ignore-unmatch *
 
 
-# 6. << Stash pop after task >>
-git checkout -f "$current_branch"
-[ "$stash_saved" ] && git stash pop stash@{0}
+# # 4. << restore the snapshot >>
+# cp -rf ${tmp}/* .
+
+
+# # 5. << commit changes >>
+# git add -A
+# [ -n "${message}" ] && git commit -m "${message}" || git commit
+
+
+# # 6. << Stash pop after task >>
+# git checkout -f "$current_branch"
+# [ "$stash_saved" ] && git stash pop stash@{0}
 
 exit 0
