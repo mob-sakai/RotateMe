@@ -9,7 +9,6 @@ namespace Coffee.RotateMe
 		{
 			var rot = Quaternion.AngleAxis (angularVelocity * Time.deltaTime, Vector3.up);
 			transform.localRotation = rot * transform.localRotation;
-			Debug.Log("test");
 		}
 	}
 }
