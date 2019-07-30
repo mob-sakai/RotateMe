@@ -5,16 +5,18 @@
 	"version": "0.0.0",
 	"unity": "2018.3",
 	"license": "MIT",
-	"dependencies": {
+	"dependencies": {},
+	"devDependencies": {
+		"@semantic-release/changelog": "^3.0.4"
 	},
-
 	"release": {
 		"branch": "develop",
 		"ci": false,
 		"plugins": [
 			"@semantic-release/commit-analyzer",
 			"@semantic-release/release-notes-generator",
-			"@semantic-release/changelog"
-		  ]
+			"@semantic-release/changelog",
+			"@semantic-release/git"
+		]
 	}
 }
