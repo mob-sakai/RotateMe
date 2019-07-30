@@ -14,7 +14,7 @@
 	"scripts": {
 		"release": "semantic-release",
 		"split": "git subtree split --prefix=$npm_package_src --branch=upm && git checkout upm",
-		"merge": "git subtree merge --prefix=$npm_package_src upm"
+		"merge": "git subtree merge --prefix=$npm_package_src upm --allow-unrelated-histories"
 	},
 	"release": {
 		"branch": "upm",
@@ -30,7 +30,10 @@
 					"npmPublish": false
 				}
 			],
-			"@semantic-release/git"
+			"@semantic-release/git",
+			["@semantic-release/exec", {
+				"verifyConditionsCmd": "git subtree split --prefix=Assets/RotateMe -b upm && git checkout upm"
+			}]
 		]
 	}
 }
