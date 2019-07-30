@@ -51,15 +51,17 @@ done
 current_rev=`git rev-parse HEAD`
 subtree_rev=`git rev-parse $branch`
 
-message="$message\n\n \
-git-subtree-dir: $prefix\n \
-git-subtree-mainline: $current_rev\n \
+message="$message\n\n\
+git-subtree-dir: $prefix\n\
+git-subtree-mainline: $current_rev\n\
 git-subtree-split: $subtree_rev"
 
-exit 0
+echo $message
+
 
 
 git merge --allow-unrelated-histories -Xsubtree="$prefix" $branch -m "$message"
+exit 0
 
 
 
