@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/mob-sakai/RotateMe/compare/1.1.0...2.0.0) (2019-07-30)
+
+
+### Features
+
+* hogehoge! ([03225ec](https://github.com/mob-sakai/RotateMe/commit/03225ec))
+
+
+### BREAKING CHANGES
+
+* Debug code has been removed.
+
 # [1.1.0](https://github.com/mob-sakai/RotateMe/compare/1.0.0...1.1.0) (2019-07-30)
 
 
