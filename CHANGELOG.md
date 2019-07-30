@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mob-sakai/RotateMe/compare/1.0.0...1.1.0) (2019-07-30)
+
+
+### Features
+
+* Add debug code ([0d0d6dc](https://github.com/mob-sakai/RotateMe/commit/0d0d6dc))
+
 # 1.0.0 (2019-07-30)
 
 
