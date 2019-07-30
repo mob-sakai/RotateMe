@@ -60,7 +60,7 @@ echo $message
 
 
 
-git merge --allow-unrelated-histories -Xsubtree="$prefix" $branch -m "$message"
+git merge --allow-unrelated-histories -Xsubtree="$prefix" -m "$message" $branch
 exit 0
 
 
