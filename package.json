@@ -36,7 +36,7 @@
 				{
 					"verifyConditionsCmd": "git subtree split --prefix=$SRC -b upm && git checkout upm",
 					"prepareCmd": "git add CHANGELOG.md package.json && git commit -m 'chore(release): ${nextRelease.version}\n\n${nextRelease.notes}'",
-					"successCmd": "echo hoge || git checkout -f develop",
+					"successCmd": "git checkout develop && git merge --allow-unrelated-histories -Xsubtree=Assets/RotateMe upm -m 'Merge into develop\ngit-subtree-dir: $SRC\ngit-subtree-mainline: `git rev-parse develop`\ngit-subtree-split: `git rev-parse upm`'",
 					"failCmd": "echo hoge || git checkout -f develop"
 				}
 			]
