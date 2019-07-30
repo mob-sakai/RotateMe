@@ -8,17 +8,14 @@
 	"src": "Assets/RotateMe",
 	"dependencies": {},
 	"devDependencies": {
-		"@semantic-release/changelog": "^3.0.4",
-		"@semantic-release/exec": "^3.3.5",
-		"@semantic-release/git": "^7.0.16"
+		"@semantic-release/changelog": "*",
+		"@semantic-release/exec": "*",
+		"@semantic-release/git": "*"
 	},
 	"scripts": {
-		"release": "SRC=$npm_package_src REV=`git rev-parse HEAD` semantic-release",
-		"split": "git subtree split --prefix=$npm_package_src --branch=upm && git checkout upm",
-		"merge": "git subtree merge --prefix=$npm_package_src upm --allow-unrelated-histories"
+		"release": "SRC=$npm_package_src REV=`git rev-parse HEAD` semantic-release"
 	},
 	"release": {
-		"branch": "develop",
 		"ci": false,
 		"tagFormat": "${version}",
 		"plugins": [
