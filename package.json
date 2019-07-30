@@ -13,12 +13,12 @@
 		"@semantic-release/git": "^7.0.16"
 	},
 	"scripts": {
-		"release": "semantic-release",
+		"release": "SRC=$npm_package_src semantic-release",
 		"split": "git subtree split --prefix=$npm_package_src --branch=upm && git checkout upm",
 		"merge": "git subtree merge --prefix=$npm_package_src upm --allow-unrelated-histories"
 	},
 	"release": {
-		"branch": "upm",
+		"branch": "develop",
 		"ci": false,
 		"tagFormat": "${version}",
 		"plugins": [
@@ -35,10 +35,9 @@
 			[
 				"@semantic-release/exec",
 				{
-					"verifyConditionsCmd": "git subtree split --prefix=$npm_package_src -b upm && git checkout upm",
-					"successCmd": "echo @@@@ SUCCESS",
-					"failCmd": "echo @@@@ FAILED"
-
+					"verifyConditionsCmd": "git subtree split --prefix=$SRC -b upm && git checkout upm",
+					"successCmd": "echo @@@@ SUCCESS $SRC",
+					"failCmd": "echo @@@@ FAILED $SRC"
 				}
 			]
 		]
