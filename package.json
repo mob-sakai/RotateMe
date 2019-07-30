@@ -10,7 +10,8 @@
 	"devDependencies": {
 		"@semantic-release/changelog": "*",
 		"@semantic-release/exec": "*",
-		"@semantic-release/git": "*"
+		"@semantic-release/git": "*",
+		"semantic-release": "^16.0.0-beta.22"
 	},
 	"scripts": {
 		"release": "SRC=$npm_package_src REV=`git rev-parse HEAD` semantic-release"
