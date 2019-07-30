@@ -13,7 +13,7 @@
 	},
 	"scripts": {
 		"release": "semantic-release",
-		"split": "git subtree split --prefix=$npm_package_src --branch=upm --rejoin",
+		"split": "git subtree split --prefix=$npm_package_src --branch=upm && git checkout upm",
 		"merge": "git subtree merge --prefix=$npm_package_src upm"
 	},
 	"release": {
