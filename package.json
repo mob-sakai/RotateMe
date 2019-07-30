@@ -35,7 +35,10 @@
 			[
 				"@semantic-release/exec",
 				{
-					"verifyConditionsCmd": "git subtree split --prefix=Assets/RotateMe -b upm && git checkout upm"
+					"verifyConditionsCmd": "git subtree split --prefix=$npm_package_src -b upm && git checkout upm",
+					"successCmd": "echo @@@@ SUCCESS",
+					"failCmd": "echo @@@@ FAILED"
+
 				}
 			]
 		]
