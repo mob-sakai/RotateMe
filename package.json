@@ -14,7 +14,7 @@
 		"semantic-release": "^16.0.0-beta.22"
 	},
 	"scripts": {
-		"release": "SRC=$npm_package_src REV=`git rev-parse HEAD` semantic-release"
+		"release": "SRC=$npm_package_src REV=`git rev-parse HEAD` BRANCH=`git branch --contains` semantic-release"
 	},
 	"release": {
 		"ci": false,
@@ -34,8 +34,8 @@
 				{
 					"verifyConditionsCmd": "git subtree split --rejoin --prefix=$SRC -b upm && git checkout upm",
 					"prepareCmd": "git add CHANGELOG.md package.json && git commit -m 'chore(release): ${nextRelease.version}\n\n${nextRelease.notes}'",
-					"successCmd": "git checkout -f develop && git subtree merge --prefix=$SRC upm -m 'Release ${nextRelease.version}'",
-					"failCmd": "git checkout -f develop && git reset --hard $REV"
+					"successCmd": "git checkout -f $BRANCH && git subtree merge --prefix=$SRC upm -m 'Release ${nextRelease.version}'",
+					"failCmd": "git checkout -f $BRANCH && git reset --hard $REV"
 				}
 			]
 		]
