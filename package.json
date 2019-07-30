@@ -9,6 +9,7 @@
 	"dependencies": {},
 	"devDependencies": {
 		"@semantic-release/changelog": "^3.0.4",
+		"@semantic-release/exec": "^3.3.5",
 		"@semantic-release/git": "^7.0.16"
 	},
 	"scripts": {
@@ -31,9 +32,12 @@
 				}
 			],
 			"@semantic-release/git",
-			["@semantic-release/exec", {
-				"verifyConditionsCmd": "git subtree split --prefix=Assets/RotateMe -b upm && git checkout upm"
-			}]
+			[
+				"@semantic-release/exec",
+				{
+					"verifyConditionsCmd": "git subtree split --prefix=Assets/RotateMe -b upm && git checkout upm"
+				}
+			]
 		]
 	}
 }
