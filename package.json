@@ -10,8 +10,13 @@
 		"@semantic-release/changelog": "^3.0.4",
 		"@semantic-release/git": "^7.0.16"
 	},
+	"scripts": {
+		"release": "semantic-release",
+		"split": "git subtree split --prefix=$npm_package_src --branch=upm --rejoin",
+		"merge": "git subtree merge --prefix=$npm_package_src upm"
+	},
 	"release": {
-		"branch": "develop",
+		"branch": "upm",
 		"ci": false,
 		"tagFormat": "${version}",
 		"plugins": [
