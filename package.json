@@ -6,5 +6,10 @@
 	"unity": "2018.3",
 	"license": "MIT",
 	"dependencies": {
-	}
+	},
+	"plugins": [
+		"@semantic-release/commit-analyzer",
+		"@semantic-release/release-notes-generator",
+		"@semantic-release/changelog"
+	  ]
 }
