@@ -1,3 +1,10 @@
+## [2.0.1-beta.1](https://github.com/mob-sakai/RotateMe/compare/2.0.0...2.0.1-beta.1@beta) (2019-08-05)
+
+
+### Bug Fixes
+
+* fix1 ([f83ea9d](https://github.com/mob-sakai/RotateMe/commit/f83ea9d))
+
 # [2.0.0](https://github.com/mob-sakai/RotateMe/compare/1.1.0...2.0.0) (2019-07-30)
 
 
