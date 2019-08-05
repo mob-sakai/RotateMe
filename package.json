@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"unity": "2018.3",
 	"license": "MIT",
-	"src": "Assets/RotateMe",
+	"src": "Packages/RotateMe",
 	"dependencies": {},
 	"devDependencies": {
 		"@semantic-release/changelog": "*",
