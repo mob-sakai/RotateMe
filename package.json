@@ -37,6 +37,12 @@
 					"successCmd": "git checkout -f -B $BRANCH && git subtree merge --prefix=$SRC upm -m 'Release ${nextRelease.version}'",
 					"failCmd": "git checkout -f -B $BRANCH && git reset --hard $REV"
 				}
+			],
+			[
+				"@semantic-release/github",
+				{
+					"failComment": false
+				}
 			]
 		]
 	}
