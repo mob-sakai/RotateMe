@@ -29,11 +29,11 @@
 					"npmPublish": false
 				}
 			],
+			"@semantic-release/git",
 			[
 				"@semantic-release/exec",
 				{
 					"verifyConditionsCmd": "git subtree split --rejoin --prefix=$SRC -b upm && git checkout upm",
-					"prepareCmd": "git add CHANGELOG.md package.json && git commit -m 'chore(release): ${nextRelease.version}\n\n${nextRelease.notes}'",
 					"successCmd": "git checkout -f -B $BRANCH && git reset --hard $REV && git subtree merge --prefix=$SRC upm -m 'Release ${nextRelease.version}'",
 					"failCmd": "git checkout -f -B $BRANCH && git reset --hard $REV"
 				}
@@ -43,8 +43,7 @@
 				{
 					"failComment": false
 				}
-			],
-			"@semantic-release/git"
+			]
 		]
 	}
 }
