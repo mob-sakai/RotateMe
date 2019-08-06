@@ -1,3 +1,23 @@
+# [3.0.0](https://github.com/mob-sakai/RotateMe/compare/2.0.0...3.0.0) (2019-08-06)
+
+
+### Bug Fixes
+
+* fix1 ([f83ea9d](https://github.com/mob-sakai/RotateMe/commit/f83ea9d))
+* fix2 ([f16fa4a](https://github.com/mob-sakai/RotateMe/commit/f16fa4a))
+
+
+### Features
+
+* add feat ([4c0cf41](https://github.com/mob-sakai/RotateMe/commit/4c0cf41))
+* add feat ([573bd86](https://github.com/mob-sakai/RotateMe/commit/573bd86))
+* add feat ([315744c](https://github.com/mob-sakai/RotateMe/commit/315744c))
+
+
+### BREAKING CHANGES
+
+* Unsupport 2017 or later
+
 ## [2.0.1-beta.5](https://github.com/mob-sakai/RotateMe/compare/2.0.1-beta.4@beta...2.0.1-beta.5@beta) (2019-08-06)
 
 
