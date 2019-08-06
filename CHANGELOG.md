@@ -1,3 +1,10 @@
+## [2.0.1-beta.3](https://github.com/mob-sakai/RotateMe/compare/2.0.1-beta.2@beta...2.0.1-beta.3@beta) (2019-08-06)
+
+
+### Features
+
+* add feat ([315744c](https://github.com/mob-sakai/RotateMe/commit/315744c))
+
 ## [2.0.1-beta.2](https://github.com/mob-sakai/RotateMe/compare/2.0.1-beta.1@beta...2.0.1-beta.2@beta) (2019-08-06)
 
 
