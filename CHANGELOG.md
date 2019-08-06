@@ -1,3 +1,10 @@
+# [4.0.0-beta.2](https://github.com/mob-sakai/RotateMe/compare/4.0.0-beta.1@beta...4.0.0-beta.2@beta) (2019-08-06)
+
+
+### Bug Fixes
+
+* fix3 ([afa3896](https://github.com/mob-sakai/RotateMe/commit/afa3896))
+
 # [4.0.0-beta.1](https://github.com/mob-sakai/RotateMe/compare/3.0.0...4.0.0-beta.1@beta) (2019-08-06)
 
 
