@@ -18,6 +18,7 @@ namespace Coffee.RotateMe
 			Debug.Log("add feat");
 			Debug.Log("add feat");
 			Debug.Log("fix3");
+			Debug.Log("fix4");
 		}
 	}
 }
