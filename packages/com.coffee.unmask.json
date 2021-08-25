@@ -3,8 +3,7 @@
   "versions": {
     "1.3.0": {
       "name": "com.coffee.unmask",
-      "displayName": "UI Unmaskxx",
-      "description": "Reverse mask for uGUI element in Unity.x",
+      "version": "1.3.0",
       "dependencies": {},
       "dist": {
         "shasum": "d9b2bb1f6a1fae3b3fbff0a851ebf560444516b3",
