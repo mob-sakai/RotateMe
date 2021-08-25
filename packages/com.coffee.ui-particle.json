@@ -1,0 +1,3498 @@
+{
+  "name": "com.coffee.ui-particle",
+  "versions": {
+    "2.0.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "2.0.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@2.0.0",
+      "_nodeVersion": "10.18.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-Anw3caaCeTkqbOnfnq5GcP4aA+fLe1oTKiOV+ShRasa7OxxteEoh9lqEGosLMngCM7QVZE3QSGj67A/YnIQ5og==",
+        "shasum": "9fae11aa3b4e38eb07b84ca215a1e0100876f5a6",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-2.0.0.tgz"
+      },
+      "contributors": []
+    },
+    "2.1.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "2.1.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@2.1.0",
+      "_nodeVersion": "10.18.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-iUVdsflyiH6WqYd967seNG6CdLAuGqSpal4tSGOxRElUjHOQqzkNKH7IYxZ7/aSHVr0YCCybzOH0wuZqY3x15w==",
+        "shasum": "16b35b621ae3eab5f38198f00cb0f04939cda022",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-2.1.0.tgz"
+      },
+      "contributors": []
+    },
+    "2.1.1": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "2.1.1",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@2.1.1",
+      "_nodeVersion": "10.18.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-+SPAh4zRC1Bv0LAek8OL9tL0Is02pxKZuK4qTpZYdxe6eCPfDNMBr4RN4bbgQvJL4J5AXRZS6gQUavs4idbAOw==",
+        "shasum": "76bb60be36383bf823704d06a5699754f4ed0f9b",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-2.1.1.tgz"
+      },
+      "contributors": []
+    },
+    "2.2.1": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "2.2.1",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@2.2.1",
+      "_nodeVersion": "10.18.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-/OlKDlILSTk9aWu8CX67/GlYZdQKbbxzPeG9EQnaZsyyxcZj/3R1Ry5dwanuCEyowsPAM79OhLgxmPZoTQpMuA==",
+        "shasum": "23d6770d240e310a9e781cd703460cfdcb29008e",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-2.2.1.tgz"
+      },
+      "contributors": []
+    },
+    "2.2.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "2.2.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@2.2.0",
+      "_nodeVersion": "10.18.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-tQNhcqYIkBsl8mrCvTV1RCO4VWQYExdDw+hVM8rzn4n6fmD/VSuZIJjVkm2l5V1Tc/AhJademCLSDcOl2YfSgA==",
+        "shasum": "a2ed4eed65bb2f8faa5da15e3d92a4625fd9daff",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-2.2.0.tgz"
+      },
+      "contributors": []
+    },
+    "2.3.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "2.3.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@2.3.0",
+      "_nodeVersion": "10.18.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-C5PmQMbwJFhIlygFBvQ1gWU2fflrr+DQFxJCUuIrYyWmmO0mQ/YoeS/aZ9W7ClsRpNVv4TOqHPHIJ7C2cbUodA==",
+        "shasum": "c227b9944af95a2b9cf37ad100c58cf2fa0dbc7b",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-2.3.0.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.1": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.1",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.1",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-K7Dj3//u1wMe11GuSVTOcy6LC6hGnHpp4C9aKISP9n0WnGujzQH92vHMs2hrBrjRlyiqUuamHl7Atdun9swkjg==",
+        "shasum": "446ff70ed817eb90f864fb9bf324726cf4178247",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.1.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.2": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.2",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "src": "Assets/Coffee/UIExtensions/UIParticle",
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "editorOnly": false,
+      "upmSupport": true,
+      "dependencies": {},
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.2",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-eWWIBwr/PHhdiDa1hQZPUaII7VdxxFBobDUAzPYpaDqOvC0MCR4uFk6rI9Cg7thgbJSGbSvRa9FGTAu9s+0x+A==",
+        "shasum": "1ae4f6b5e5f2e9c23f213e5c72b4b22479b719b5",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.2.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.3": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.3",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.3",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-lIvEYXMiP3vcle6eApvqd6vVk+9f6rHSNc+aWrmDC6M+6vC40fKhuWtEDbFlvPPAwngioUHyoMoZI2kgJ10niw==",
+        "shasum": "ae6acf2a4ab238b5fecf18d43a8b1b0608c540a7",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.3.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.4": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.4",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.4",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-dEV6U+jUvkyrTUTtYWLNP7RcjTco/GQEogvFiNoKA0T5kR/QF4x7qrMfVVRODr71YC7bDj5JqZnBBeyPrGwDUQ==",
+        "shasum": "68134645e091fcdcb5c10aff2d6991a61f95bcce",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.4.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.5": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.5",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.5",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-G7+ATFUrgUAdiD10towaVyl9vK1d9J2H3O7lr4UPdzKpaxJCigwljAQlfNorz2Enk3fZGPie+W6kSQiFbh3IeA==",
+        "shasum": "b41eb50665ebbb54818daf964c81531d9de51972",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.5.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.6": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.6",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.6",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-0P5fLvW0ey7v0fytWTnjyAlY3DyItasuuE6SrDB/Xrt6rGzCC5WYBH28Dky0f2GgILUh0z3yxmEWmXmeTnYKRw==",
+        "shasum": "a96657a857fb8c10e7ed1288dc6f574a66e2dea3",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.6.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.7": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.7",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.7",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-79JOimCfasgDeBhMbAA1qpzGQ4CnnR2LzaVelsw5vwN5ZCP5JLuqMNppq0vdF25rnLblTAZg08/2+8csFuHCDA==",
+        "shasum": "5638a2a5ba96a3d249785a814b0b99f14410df7e",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.7.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.8": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.8",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.8",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-Li7ljYyOSmAyZcLtrQ3nfHkUvIibrFAOXTDthsaN4GL5uJt0H5iKJY1Pw/I51HMgQgZ80av8Pbg+d9MRphBNZA==",
+        "shasum": "b11ba7a9bfe1da30645cd0af7d96b62fcd7f59e4",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.8.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.9": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.9",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "ce6478cf1f2103542a860e256ef7fc2535f47c13",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.9",
+      "_nodeVersion": "10.19.0",
+      "_npmVersion": "6.13.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-TiCQG9wtMTFY8S+XPOfExo66B45hE4riSEnfxfVrqdBz/NGjbcg077BjaSpiioQg9KTmdWRQJ0u2IHdSPUErPg==",
+        "shasum": "c844843947cb9a06f5fd30f464d7da7a99fd0e67",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.9.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.10": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.10",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "bb7443400c3f1a5100a972aed0e6489cbfdbcab1",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.10",
+      "_nodeVersion": "10.20.1",
+      "_npmVersion": "6.14.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-wuWugmRrM8xjkEFpu45CqGNioGcbTD7cT/ZTgPrQxxGoi4R7/yd8hR1X5sR+PTORsp3MjQEpiYEUiCko/w6oXw==",
+        "shasum": "5e25b24e109a3d8c8957fe27267f09b36b440826",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.10.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.11": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.11",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "901e7f16478a3baa451e8de79a4a61d3879d521d",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.11",
+      "_nodeVersion": "10.20.1",
+      "_npmVersion": "6.14.4",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-NoPXEB/a/M16ClOHcVa5ZttybF5if+AHneN/UoyxKkNeHh5988+0HWrh2mE6/CvYcSvMaVZYFKBAHPP8leuyNQ==",
+        "shasum": "a94158229f9bceb1534a0e6f82a3db409f3a6992",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.11.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.12": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.12",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "af9909f4dcb8250718f97b054df61328576aa3b5",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.12",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-5CzrPNkn+WEi1pATzZ1O9TeXWsfLlqELRUIen25sFFeFZJgSiEKkK8jCTbpo//riISulTiNs5NZpti4Y91serQ==",
+        "shasum": "23a6b8c640aaaecb85397fee7aec2da5b073956d",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.12.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.13": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.13",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "e036d254a819e5087d1637594cc0aff9b3e8f205",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.13",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-W9GWCWtMKEaMWBbIozQAsSIaLFbmZDvEA2SvGXvPfhU+TVJUZCDgaRfoFA1AMIjaCeq4Bo+P5TRlhB6MSS4/9A==",
+        "shasum": "68f70e90707999626a957dd5394685bd15631d70",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.13.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.14": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.14",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "2b3bf91655f15ceea73ab343e493d7902fb4d29b",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.14",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-2gJ7Apdy/+DPtSuGDvzRCIJHrgpP+iLtrnjeBwdATj5AR15Np3qs8HO5XN8uWq7vqYVG+iFA6zDnTtCn/HU5fw==",
+        "shasum": "03f6fca312f4d08f40f105bc18923695d6fa99cd",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.14.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.15": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.15",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "7355c2ac783ae1911d8952cbc1dfc4d6e13b565d",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.15",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-25IwqJ0Xtetx77rb/vcID0BL2wEoDQ6tKrc7y1cPixHfsTjNwvku5qYYUaS7iw6Pb7I5BjKH8G2by9o7L1bzwg==",
+        "shasum": "ae7d13745af154ea976ad6fdf408b9e70f95d637",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.15.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.16": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.16",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "f2034e27b7e71f2c4850046a0f1675c9f7ee1e8a",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.16",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-cDl1Xu0InaTkDhWW4RpGUu2eqOM14fPQa3OXHBgvka4xgQbEw4EGaYzKupHwB7BYoqxdtu9hYkbR2O7dSszk8A==",
+        "shasum": "61c29c752c6ea81367b5528767323dbd04a2f4c4",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.16.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.17": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.17",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "785709fa02687b76082414488a88e7e3f89571b6",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.17",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-r2aI0KLZFIQITQl36QBrOoYPHvyHYoFKtSC2ogKK/rQ2U9qBRTlu9qwGjmGMCjRqXu13YQLE9BMUC35HYbsxOQ==",
+        "shasum": "e106a0cc2745514742143fcc232fcb1d85cc579d",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.17.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.18": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.18",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "eccb3ecb5e04e0b01d8920d7a674e18268142e5e",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.18",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-i1ZmCRNWg/9jgpx7ynzMUU4aymqGbhjzVsX8gedsJU3jkCSUg8LDP+owHISzdM0+6h62xdLBOKY6VlkvPswRLw==",
+        "shasum": "909c28ba94ecf43f57367ca7ce3846441acf4390",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.18.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.21": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.21",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "46ec957a524153e81d37d303864b634bd68e319f",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.21",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-1GbKlThAO+2Uo4LTvM37q83refSKnt5nPmU8ovAiEtx96LPUCbTtbtyPBDsmen7OECr77jJQ66h7PWmNnJARRQ==",
+        "shasum": "c903e8e1e496190958a0a0c2dbf2e7e4f4cb8108",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.21.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.22": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.22",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "58465259ad7963c57dc31ef493fb9a09dca6474c",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.22",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-hRdUx1pJmyXBsujj7EQ5QnI94nx+BW4OysdjZMGDNRZOATRqc5VtA/V+BWflWrHp5U+5oVzibKQMUCUAcZg7Sw==",
+        "shasum": "031956631effb1df60b45bd35952694ded565046",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.22.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.19": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.19",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "0d4a5875d130c74a573f713b46e109b7affefb21",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.19",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-Jg04eYG79QylWbqNI88AL6OVP97+qyJVLRqOcjRsxG1GwZrSFwiLnBaMA6lRv+Id3gD6AJtr+bRBC/zYHJ008w==",
+        "shasum": "1d6a91c9ad7492920d665a2202f2e882f56c6469",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.19.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.20": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.20",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "ab27f0af6fa9a6da1152b4f76e67848ec3d819b4",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.20",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-FAlBpRwuBZjsIoDUAoAVTyrfGbBOuP9poQkPoldqPP1ll7/ZvCNWcDLXMqcPOL2ZuxsOfS4vMZBzvSkNr6Zpww==",
+        "shasum": "db07065e62023de3d03440ec894bbe4fd7a028b1",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.20.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.23": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.23",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "0eb76a643291acf46bf2bf98bdef98244b08b5b8",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.23",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-bHpt1q9XwuS8R1AYKrhiFekkDK/E+9Hux04GXcCpZa1asxZ3Brcu2HgZwh5wQ7aztBvxboPsAzIzdBLVsXpifg==",
+        "shasum": "93aae7262009115ce6ad6132ae7d8024c55fd3d6",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.23.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.24": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.24",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "907179835301557855e0b6838c0037da422c08e6",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.24",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-roh1x7hT8FwrJK4mr2tbHtQ3mP6+x9b58Su68ztl4YoR23Mys7hCtAeeBPt6/xz0mDxTVFtz5XoIrqkakD+y3Q==",
+        "shasum": "2c09aa164dd804138235b4def1396e26978807b6",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.24.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.25": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.25",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "94df58276ae66a80b3424e02da1b134b891d6730",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.25",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-CAg/GvdC2ASzGt1SRS6T5/dDkFdkJn7JTnJhZJbB71slReVQwFIvlzM4D2OdM1VWr3AXKM+qFJKc05fOBJTBcQ==",
+        "shasum": "956a7b4edfc0d12f289ff17d1a825c20583bb612",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.25.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.26": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.26",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "eafc615ea645baa949127b91adb56dda06269426",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.26",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-jujncuTePzVu3nrcrzOnspxaFA/yFy3S7ZwepV4fO3UDDT2mQdXaZ/qCwwrwtm9bI+hRIcfQFSlIdR08qQ18TQ==",
+        "shasum": "50fb4fba1740d761d13ce7b4a1b5d3229f2c2083",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.26.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.27": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.27",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "2b9e8ecd735ae5baff02ee339ae92e68e8453308",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.27",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-y/MSj6/uAgb8Cn0eM1psJucZboxXQmH3ixjjn3T/KueVw+pqFTEAwZ/1YgmJOIrFj4Q5GY6eO2zepwhJ75B01Q==",
+        "shasum": "81b4a5df81ca6c78219ad2ada5c5fc544e1f78a3",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.27.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.28": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.28",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "7f36ca15dd748f89ea84f880bf38c54d02e2027c",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.28",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-ljSQKuP6cNs/8IAHwxYVYQ4fbZf9DjTzIyvfSSokKomQ3InK09aY/ttjTVeNWxnpNNeH3q8S84yh1Hu29UGOmw==",
+        "shasum": "15d4eb97b0bc10ba28bcd8b2d36e37cfae60d668",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.28.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.29": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.29",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "c8ecd56e76089bfa60d980bd85c866420e18e960",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.29",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-rUfuHgnFKiBFAm+B50MSDDo5RD4/pghLIsRqq7ZLKYQck7k8zCCV+pVm5qnelr8GwG4WqEcHBAkzK164Tqd3yQ==",
+        "shasum": "69eaa3c83cb39a8d03ff024d1404f0d8acbd898f",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.29.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.30": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.30",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "b12b82c172df1b986cdce22b593b97b529709b66",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.30",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-xcAZRs4jNmUNqGY76CbP8QqmgH0i6fxw5TZBNfxeV1/OgFbtSUEz5hXBs50RbckrL3Hb4i/6vSAWJNRvKocrug==",
+        "shasum": "e3a6b293fd454429b8b26d4e0ddfb6e2c0c9efbe",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.30.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.31": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.31",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "6f3f4803da5e4c8995dcce85a480938ee0368e8a",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.31",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-bjtLnsGQ/BEJ+G0wZpQxL5wXF5sR76gWwbp5VBkt8GgsgZRNu7m4324FMlXXrlx0mEyip4YsyXcpyw8t0rCiwQ==",
+        "shasum": "2e76017c95ab113373e9665ebd341e4bc6ded0e4",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.31.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.32": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.32",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "64787261dfacdc43c6395b89c972715da441309a",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.32",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-wZqBLNZ1tEaNu51xVvE+R72OQ/KlajgiXii/6Y2EGcDUw4FHNRVhfcFxDBQQyuxC0gjojqoADL1ndiLQPvHsRA==",
+        "shasum": "091eac15c5191916e6e5755a5ac924184f965b8b",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.32.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.33": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.33",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "82aeb0e419c4a056fb2eceb33607d4ae9422a95a",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.33",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-oRI1IR4lV0RWbVETmDeRqCdyx1o86n8NKJe/HaoxWykf370YOYOtV+Z8dN41R8oTMVTg6jcxk4XmklOYQbMsgQ==",
+        "shasum": "fe2bcb9206a4999753a6c9b1afadb97db81858b7",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.33.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.34": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.34",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "bda77ab0395282b9a2c417c6affa21c1d004321b",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.34",
+      "_nodeVersion": "10.22.0",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-3CRhM6wIhtiCsRtlmL0rIx4Fbf6NnJFnLW3dDHd79uhwx31Nt68xdCemYP/9rBnvgqoeLe34Cq+Lh6kPlmRBgg==",
+        "shasum": "a515b96f1e249ccfc7d4ab36ba19c35061057b76",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.34.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.35": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.35",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "94ae9d2016e4a50e05295b1257c5ae724ca4aa0b",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.35",
+      "_nodeVersion": "10.22.1",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-WxzhG4wX+SyRr/aW5uiJoRA86ghCVOSD7ip4Uc/jl7b0tnM0+xI7xX7UdzRwm4e4aTOMkduIRdBlpdP5bMh10w==",
+        "shasum": "d1738ca4bfc67124dd15f4f59ec85adbb61d99c3",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.35.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.36": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.36",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "4b4d70bdd127d94c40307ee8eaf87da0f6dc6125",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.36",
+      "_nodeVersion": "10.22.1",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-JrjN2FBg65W09mlnh8lyrviZNYxpF2iCvb4zrQ++Cr+YvaX3q/ziT9Rsp/haHT2LFjhepMXCHwSR73o0zOQ+xQ==",
+        "shasum": "1f04452f39bd9948682793c10790142c652cf021",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.36.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.37": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.37",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "7bf1bae64ab652754f1d6d6893b2551b2e8fca8f",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.37",
+      "_nodeVersion": "10.22.1",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-p3qCTKb3r6NcdUEEqiYXY8RZeWQFZZByKY4Dp6PfTlviAxbeMif2GS/2CgsOkI1zBmrF2HI+PGNsI4gi8hiRdg==",
+        "shasum": "8f11169cc32a9791d0f3bb95a0b1f5bd09205dee",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.37.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0-preview.38": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0-preview.38",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "8b328154a433d9f7e3409029d0983df4d3e37dda",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0-preview.38",
+      "_nodeVersion": "10.22.1",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-DLVjIxGdC2Rxw6HjsB5bXe976a6hRQObfpe+613ivDGCUxHpHUbXA2jrYnS1k/4hGdHyrYL77HlcIJvOfg35Gg==",
+        "shasum": "748ee3eac2036008bb0bf6ddfea54e6100c06903",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0-preview.38.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "f317e4475a6bcb7448c540873eb9645b351f5037",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.0",
+      "_nodeVersion": "10.22.1",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-1KYae+sszL06so0FgWu1uUAw/8yAl6eLpRef+g2KGPdbdGoIK32syagwz3u6EI7OAHoCHhCdZEGEBNYSpHERgQ==",
+        "shasum": "9f68fab8c91007066be8028312982d141a87399e",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.0.tgz"
+      },
+      "contributors": []
+    },
+    "3.0.1": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.0.1",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "61f7706259cbe1078a6818456a2d2e3f96c9c4d9",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.0.1",
+      "_nodeVersion": "10.22.1",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-c3qqMZ7KpjJ8c5tUDJUzswz1BqarCGvuiuP+s0000/u18qYORAWUSFWrMVp4OBwXqrCVvVPhvB9QMizG9BWgAg==",
+        "shasum": "37c360e8abde3162bdb2a20e2169600663eafea4",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.0.1.tgz"
+      },
+      "contributors": []
+    },
+    "3.1.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.1.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "b322db3ca9310d7a02806886ffce508556fba4d2",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.1.0",
+      "_nodeVersion": "10.22.1",
+      "_npmVersion": "6.14.6",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-S0Xf/LPZDymuSOog2fJHfkj8byKGIIke0LBPwkjMPvdSSiz4qXr7S3IGyMHuVA5SdtJrgdnuoMHYeuJTEJ3s5Q==",
+        "shasum": "a2863df04fa6fa71db7dd64861f38218ae34e120",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.1.0.tgz"
+      },
+      "contributors": []
+    },
+    "3.1.1": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.1.1",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "06d8fae58ffc165299b7a6b32c181b2c19fae1ae",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.1.1",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-2evy0KFXZ1E1IkXa8vVr523eJ65e+byVnaovkKq/9V6Lu8io81Dn2BPmhDEYqsfHyEVqAU1FdhV5vhn2HR6ynA==",
+        "shasum": "5865b87a36fdaa86ff1c83a0ea6be822df02a2d7",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.1.1.tgz"
+      },
+      "contributors": []
+    },
+    "3.2.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.2.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "6884c62687d68c0eed94a2f4c1abdccb70dd29c4",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.2.0",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-fzWiJqskGQ3X0dNMfDbx5dQiF8aY4aYhj4vHoTf2ftOcZ4k1E8VOU8zkw5DchTdAkIb591sVqKoKvpJXIUsHUw==",
+        "shasum": "53ab81f76d5914499cca18c0964c0c2b39c43e22",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.2.0.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.0": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.0",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "429ff2dd09264fd091ed3005c7a4c247f118c7ae",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.0",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-G6miHcFV78WJaKgPrZ6lJMpf9PPYTwT85U+GSQ3UrH1W+G27XzFPwb0x3lwYlz0E/2OeLeffEIndgKLHYlYGtg==",
+        "shasum": "b253c42085976d90fc7c857e9b7dae6f7c862514",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.0.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.1": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.1",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "501aa7b7f1b9b6592b0411f9d237561cc8c38fdf",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.1",
+      "_nodeVersion": "10.23.1",
+      "_npmVersion": "6.14.10",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-YmPw1prza758k5hUqav8rlhtsFv+QY5XlACXb1PHAevwSNQxp+3HzoFr8fI5v0bGrbArD8PqjNOtAVE4TyF6cA==",
+        "shasum": "a91bc140a1aeddc30b73bb3ec20968a8c7eea1b4",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.1.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.2": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.2",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "ba3b80db7a2575a0b5c9a3aafb86ac1b75b3d9f5",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.2",
+      "_nodeVersion": "10.23.1",
+      "_npmVersion": "6.14.10",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-sg8+MXq3sdHl5oAvFwYNfUwpZamvBRp/TCl9wE49IMFPp4bk5d7Wguy22KoUdhNLNjHKELyEGkA8hqlBFUX1bQ==",
+        "shasum": "0f3e75bbcefdd461a005c504fb8793a95778d552",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.2.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.3": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.3",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "41e895a2db66de48c2621b3fd19284e7160cbcfc",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.3",
+      "_nodeVersion": "10.23.1",
+      "_npmVersion": "6.14.10",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-ff7atfpN+r9A6bCIiYDiZgSalgtvqPinby6qppeYelMR5BDGRe41WtXGHj6NsBpCkxhL3qXV1VbuG82ISGhP5w==",
+        "shasum": "ccb7ed12977dc0313ea1d2ee4ada2890ceca96d5",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.3.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.4": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.4",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "9f9e04724d7a237e68c463b79b5405dfc8fe4ae2",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.4",
+      "_nodeVersion": "10.23.3",
+      "_npmVersion": "6.14.11",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-0ltQBIGT+w/0rc2zZhJD/K8DhmFxK0Xeksr24X1PjuscOdBrISGpOD/jdfHchUd8vX6GP00R72g3qwR+DG8XyA==",
+        "shasum": "0a5ac29138a812667c3ec495d0aec434eea346ec",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.4.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.5": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.5",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "5f3ead208666caa379299bf76eb1f17324ad1025",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.5",
+      "_nodeVersion": "10.23.3",
+      "_npmVersion": "6.14.11",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-yMDtxSCkJK3q2da12enpPg2z+dgDTzfil+E/KhAVkYIBp0hNK08+BIs1C72l5CSKmluN2ay2ilYSbWQ1EJA4Og==",
+        "shasum": "1fc99f87a179a16e2dcbcfc2018727d7c62b9372",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.5.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.6": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.6",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "24d32d8441eb27da88e462a44935ab78e9172dbb",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.6",
+      "_nodeVersion": "10.24.1",
+      "_npmVersion": "6.14.12",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-6R0pp7Dwui38DWbavV/Gxku8b49DArHPM/dyeGws7MkRXw44C5w1/YNqWUNDBN/sGnWQUgwQX5sgXS3dPPhTaw==",
+        "shasum": "46eadbc2cf3b5e7de17e4d497d45f5cc7be337f2",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.6.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.7": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.7",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "4f9bbf57bcd9585bd36a6b48e78314ba14feacae",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.7",
+      "_nodeVersion": "10.24.1",
+      "_npmVersion": "6.14.12",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-cVzhncoMxAKk5oMA+si20iNU09lqa8wWaZMneaQ2EmTLPxSPJg0miWnxD3nSfs0l4zhkhWT6RvnkhrVbOXObXw==",
+        "shasum": "449853af1b752026c00341b66d1a6316b72a7373",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.7.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.8": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.8",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "f43d4c38eaa9c804a72f98833057dbc9dbd8b015",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.8",
+      "_nodeVersion": "10.24.1",
+      "_npmVersion": "6.14.12",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-1SCc9xS4Wwm/yc49FRM7CtQ3zsyXtRCxLbX9ZNcdTdqYRVDlR/7SjUo+oDxx+zgzSV3l1fTNAWvGIrVWKTEpkw==",
+        "shasum": "cf0d1ea9dec5b21e17a5eddbda75bcdaeefff180",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.8.tgz"
+      },
+      "contributors": []
+    },
+    "3.3.9": {
+      "name": "com.coffee.ui-particle",
+      "displayName": "UI Particle",
+      "description": "This plugin provide a component to render particle effect for uGUI.\nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.",
+      "version": "3.3.9",
+      "unity": "2018.2",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "ui",
+        "particle"
+      ],
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Particle Demo",
+          "path": "Samples~/Demo"
+        },
+        {
+          "displayName": "Cartoon FX & War FX Demo",
+          "description": "Cartoon FX & War FX Demo",
+          "path": "Samples~/Cartoon FX & War FX Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "2e4d80bc1cbbfe5400fb052778c65bcccc505abd",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/ParticleEffectForUGUI#readme",
+      "_id": "com.coffee.ui-particle@3.3.9",
+      "_nodeVersion": "10.24.1",
+      "_npmVersion": "6.14.12",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-sprfJAlypt1V1lRNJbtvzF6nh+ilm27Zu8UitRQUJyKf1EDN08zK3hwNS57lEE1/JLjmHZmLaNaogR3wKvMX4Q==",
+        "shasum": "a1c294de106d96630aabddd089884d8ff7b4b961",
+        "tarball": "https://package.openupm.com/com.coffee.ui-particle/-/com.coffee.ui-particle-3.3.9.tgz"
+      },
+      "contributors": []
+    }
+  },
+  "time": {
+    "modified": "2021-08-02T17:53:53.908Z",
+    "created": "2019-12-25T16:33:52.145Z",
+    "2.0.0": "2019-12-25T16:33:52.145Z",
+    "2.1.0": "2019-12-25T16:34:05.841Z",
+    "2.1.1": "2019-12-25T16:34:06.226Z",
+    "2.2.1": "2019-12-25T16:34:20.018Z",
+    "2.2.0": "2019-12-25T16:34:22.629Z",
+    "2.3.0": "2019-12-25T16:34:55.189Z",
+    "3.0.0-preview.1": "2020-02-12T12:41:00.986Z",
+    "3.0.0-preview.2": "2020-02-13T09:35:58.702Z",
+    "3.0.0-preview.3": "2020-02-17T03:25:56.464Z",
+    "3.0.0-preview.4": "2020-02-18T02:15:55.926Z",
+    "3.0.0-preview.5": "2020-02-21T11:46:03.452Z",
+    "3.0.0-preview.6": "2020-02-21T12:10:57.421Z",
+    "3.0.0-preview.7": "2020-03-02T10:31:03.099Z",
+    "3.0.0-preview.8": "2020-03-03T09:50:58.720Z",
+    "3.0.0-preview.9": "2020-03-04T03:40:53.517Z",
+    "3.0.0-preview.10": "2020-04-30T03:31:07.435Z",
+    "3.0.0-preview.11": "2020-05-07T18:16:13.143Z",
+    "3.0.0-preview.12": "2020-08-11T14:47:53.831Z",
+    "3.0.0-preview.13": "2020-08-11T15:12:39.261Z",
+    "3.0.0-preview.14": "2020-08-11T15:22:43.534Z",
+    "3.0.0-preview.15": "2020-08-11T17:12:48.111Z",
+    "3.0.0-preview.16": "2020-08-12T14:22:51.881Z",
+    "3.0.0-preview.17": "2020-08-13T12:52:52.593Z",
+    "3.0.0-preview.18": "2020-08-19T19:47:51.509Z",
+    "3.0.0-preview.21": "2020-08-28T19:02:41.020Z",
+    "3.0.0-preview.22": "2020-08-29T03:17:46.930Z",
+    "3.0.0-preview.19": "2020-08-30T12:57:31.471Z",
+    "3.0.0-preview.20": "2020-08-30T12:57:43.547Z",
+    "3.0.0-preview.23": "2020-08-31T00:32:48.627Z",
+    "3.0.0-preview.24": "2020-09-01T04:57:42.527Z",
+    "3.0.0-preview.25": "2020-09-01T05:32:48.847Z",
+    "3.0.0-preview.26": "2020-09-01T07:07:51.140Z",
+    "3.0.0-preview.27": "2020-09-01T08:07:44.698Z",
+    "3.0.0-preview.28": "2020-09-01T17:42:46.937Z",
+    "3.0.0-preview.29": "2020-09-01T18:07:47.004Z",
+    "3.0.0-preview.30": "2020-09-02T05:22:42.153Z",
+    "3.0.0-preview.31": "2020-09-02T16:07:51.589Z",
+    "3.0.0-preview.32": "2020-09-14T09:32:45.820Z",
+    "3.0.0-preview.33": "2020-09-14T14:03:25.167Z",
+    "3.0.0-preview.34": "2020-09-15T12:22:53.824Z",
+    "3.0.0-preview.35": "2020-09-27T07:02:46.059Z",
+    "3.0.0-preview.36": "2020-09-28T12:43:00.314Z",
+    "3.0.0-preview.37": "2020-10-01T07:22:55.280Z",
+    "3.0.0-preview.38": "2020-10-04T14:32:50.046Z",
+    "3.0.0": "2020-10-27T18:43:00.483Z",
+    "3.0.1": "2020-10-28T03:38:07.000Z",
+    "3.1.0": "2020-10-28T17:13:18.969Z",
+    "3.1.1": "2020-11-09T16:58:29.163Z",
+    "3.2.0": "2020-11-15T18:13:37.192Z",
+    "3.3.0": "2020-11-20T07:33:25.845Z",
+    "3.3.1": "2021-02-01T14:49:20.827Z",
+    "3.3.2": "2021-02-01T15:44:22.062Z",
+    "3.3.3": "2021-02-03T02:19:13.607Z",
+    "3.3.4": "2021-02-22T12:30:02.400Z",
+    "3.3.5": "2021-02-28T04:25:45.893Z",
+    "3.3.6": "2021-05-11T08:26:11.173Z",
+    "3.3.7": "2021-06-02T18:21:05.498Z",
+    "3.3.8": "2021-06-08T17:31:40.457Z",
+    "3.3.9": "2021-08-02T17:53:53.908Z"
+  },
+  "users": {},
+  "dist-tags": {
+    "latest": "3.3.9",
+    "patch@3.0.0-preview.19": "3.0.0-preview.19",
+    "patch@3.0.0-preview.20": "3.0.0-preview.20"
+  },
+  "_rev": "181-7e93e23e1f3c93df",
+  "_id": "com.coffee.ui-particle",
+  "readme": "Particle Effect For UGUI (UI Particle)\n===\n\n**:warning: NOTE: Do not use [the obsolete tags and branches](https://github.com/mob-sakai/ParticleEffectForUGUI/issues/108) to reference the package. They will be removed in near future. :warning:**\n\nThis plugin provide a component to render particle effect for uGUI in Unity 2018.2 or later.  \nThe particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.\n\n[![](https://img.shields.io/npm/v/com.coffee.ui-particle?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.coffee.ui-particle/)\n[![](https://img.shields.io/github/v/release/mob-sakai/ParticleEffectForUGUI?include_prereleases)](https://github.com/mob-sakai/ParticleEffectForUGUI/releases)\n[![](https://img.shields.io/github/release-date/mob-sakai/ParticleEffectForUGUI.svg)](https://github.com/mob-sakai/ParticleEffectForUGUI/releases)  [![](https://img.shields.io/github/license/mob-sakai/ParticleEffectForUGUI.svg)](https://github.com/mob-sakai/ParticleEffectForUGUI/blob/master/LICENSE.txt)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](http://makeapullrequest.com)  \n![](https://img.shields.io/badge/Unity%202018.2+-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202019.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202020.x-supported-blue.svg)  \n![](https://img.shields.io/badge/Universal%20Rendering%20Pipeline-supported-blue.svg)\n\n\n<< [Description](#Description) | [Demo](#demo) | [Installation](#installation) | [Usage](#usage) | [Development Note](#development-note) | [Change log](https://github.com/mob-sakai/ParticleEffectForUGUI/blob/upm/CHANGELOG.md) >>\n\n\n\n<br><br><br><br>\n\n## Description\n\n![](https://user-images.githubusercontent.com/12690315/41771577-8da4b968-7650-11e8-9524-cd162c422d9d.gif)\n\nThis plugin uses new APIs `MeshBake/MashTrailBake` (added with Unity 2018.2) to render particles by CanvasRenderer.\nYou can mask and sort particles for uGUI without Camera, RenderTexture, Canvas.\n\nCompares this \"Baking mesh\" approach with the conventional approach:  \n(This scene is included in the package.)\n\n|Approach|Good|Bad|Screenshot|\n|-|-|-|-|\n|Baking mesh<br>**\\(UIParticle\\)**|Rendered as is.<br>Maskable.<br>Sortable.<br>Less objects.|**Requires Unity 2018.2 or later.**<br>Requires UI shaders to use Mask.|<img src=\"https://user-images.githubusercontent.com/12690315/41765089-0302b9a2-763e-11e8-88b3-b6ffa306bbb0.gif\" width=\"500px\">|\n|Do nothing|Rendered as is.|**Looks like a glitch.**<br>Not maskable.<br>Not sortable.|<img src=\"https://user-images.githubusercontent.com/12690315/41765090-0329828a-763e-11e8-8d8a-f1d269ea3bc7.gif\" width=\"500px\">|\n|Convert particle to UIVertex<br>[\\(UIParticleSystem\\)](https://forum.unity.com/threads/free-script-particle-systems-in-ui-screen-space-overlay.406862/)|Maskable.<br>Sortable.<br>Less objects.|**Adjustment is difficult.**<br>Requires UI shaders.<br>Difficult to adjust scale.<br>Force hierarchy scalling.<br>Simulation results are incorrect.<br>Trail, rotation of transform, time scaling are not supported.<br>Generate heavy GC every frame.|<img src=\"https://user-images.githubusercontent.com/12690315/41765088-02deb9c6-763e-11e8-98d0-9e0c1766ef39.gif\" width=\"500px\">|\n|Use Canvas to sort|Rendered as is.<br>Sortable.|**You must to manage sorting orders.**<br>Not maskable.<br>More batches.|<img src=\"https://user-images.githubusercontent.com/12690315/41765087-02b866ea-763e-11e8-8c33-081c9ad852f8.gif\" width=\"500px\">|\n|Use RenderTexture|Maskable.<br>Sortable.|**Requires Camera and RenderTexture.**<br>Difficult to adjust position and size.<br>Quality depends on the RenderTexture's setting.|<img src=\"https://user-images.githubusercontent.com/12690315/41765085-0291b3e2-763e-11e8-827b-72e5ee9bc556.gif\" width=\"500px\">|\n\n\n#### Features\n\n* Easy to use: the package is out-of-the-box\n* Sort particle effects with UI\n* No Camera, RenderTexture or Canvas are required\n* Masking with Mask or RectMask2D\n* Support Trail module\n* Change alpha with CanvasGroup\n* No heavy allocation every frame\n* Support overlay, camera space and world space\n* Support changing material property with AnimationClip (AnimatableProperty)  \n![](https://user-images.githubusercontent.com/12690315/53286323-2d94a980-37b0-11e9-8afb-c4a207805ff2.gif)\n\n\n\n<br><br><br><br>\n\n## Demo\n\n* [WebGL Demo](https://mob-sakai.github.io/Demos/ParticleEffectForUGUI)\n* [WebGL Demo (Cartoon FX & War FX)](https://mob-sakai.github.io/Demos/ParticleEffectForUGUI_CFX)\n  * [Cartoon FX Free][CFX] & [War FX][WFX] (by [Jean Moreno (JMO)][JMO]) with UIParticle\n\n[CFX]: https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565\n[WFX]: https://assetstore.unity.com/packages/vfx/particles/war-fx-5669\n[JMO]: https://assetstore.unity.com/publishers/1669\n\n![](https://user-images.githubusercontent.com/12690315/91664766-3e07ac00-eb2c-11ea-978b-ef723be80619.gif)\n\n\n\n<br><br><br><br>\n\n## Installation\n\n### Requirement\n\n![](https://img.shields.io/badge/Unity%202018.2+-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202019.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202020.x-supported-blue.svg)  \n![](https://img.shields.io/badge/Universal%20Rendering%20Pipeline-supported-blue.svg)\n\n### Using OpenUPM\n\nThis package is available on [OpenUPM](https://openupm.com).  \nYou can install it via [openupm-cli](https://github.com/openupm/openupm-cli).\n```\nopenupm add com.coffee.ui-particle\n```\n\n### Using Git\n\nFind the manifest.json file in the Packages folder of your project and add a line to `dependencies` field.\n\n* `\"com.coffee.ui-particle\": \"https://github.com/mob-sakai/ParticleEffectForUGUI.git\"`\n\nTo update the package, change suffix `#{version}` to the target version.\n\n* `\"com.coffee.ui-particle\": \"https://github.com/mob-sakai/ParticleEffectForUGUI.git#3.3.0\",`\n\nOr, use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) to install and update the package.\n\n### For Unity 2018.2\n\nUnity 2018.2 supports embedded packages.\n\n1. Download a source code zip file from [Releases](https://github.com/mob-sakai/ParticleEffectForUGUI/releases) page\n2. Extract it\n3. Import it under `Packages` directory in your Unity project\n\n\n\n<br><br><br><br>\n\n## How to play demo\n\n### For Unity 2019.1 or later\n\n1. Open `Package Manager` window\n2. Select `UI Particle` package in package list\n3. Click `Import Sample` button  \n![demo](https://user-images.githubusercontent.com/12690315/95017806-83bd1480-0696-11eb-8c24-c56f45ab1ac2.png)\n4. The demo project is imported into `Assets/Samples/UI Particle/{version}/Demo`\n5. Open `UIParticle_Demo` scene and play it\n\n### For Unity 2018.4 or earlier\n\n1. Select `Assets/Samples/UI Particle Demo` from menu\n2. The demo project is imported into `Assets/Samples/UI Particle/{version}/Demo`\n3. Open `UIParticle_Demo` scene and play it\n\n### About `Cartoon FX & War Fx Demo`\n\n* It requires free assets ([Cartoon FX Free][CFX] & [War FX][WFX])\n  * by [Jean Moreno (JMO)][JMO]\n\n\n\n<br><br><br><br>\n\n## Usage\n\n### UIParticle component\n\n`UIParticle` controls the ParticleSystems that is attached to its own game objects and child game objects.\n\n![](https://user-images.githubusercontent.com/12690315/99765566-af129a80-2b42-11eb-88f6-661182d0b619.png)\n\n| Properties | Description |\n| -- | -- |\n| Maskable | Does this graphic allow masking. |\n| Ignore Canvas Scale | Ignore the scale of the root canvas.<br>This prevents it from displaying small even in hierarchy scaling mode of `ParticleSystem`. |\n| Scale | Scale the rendering.<br>When the `3D` toggle is enabled, 3D scale (x,y,z) is supported. |\n| Animatable Properties | If you want update material properties (e.g. `_MainTex_ST`, `_Color`) in AnimationClip, use this to mark the changes. |\n| Shrink By Material | Shrink rendering by material.<br>Performance will be improved, but in some cases the rendering is not correct. |\n| Rendering Order | The ParticleSystems to be rendered.<br>You can change the rendering order and the materials. |\n\nNOTE: Press `Refresh` button to reconstruct rendering order based on children ParticleSystem's sorting order and z position.\n\n<br><br>\n\n### Basically usage\n\n1. Select `Game Object/UI/ParticleSystem` to create UIParticle with a ParticleSystem.  \n![particle](https://user-images.githubusercontent.com/12690315/95007361-cad0e880-0649-11eb-8835-f145d62c5977.png)\n2. Adjust the ParticleSystem as you like.  \n![particle1](https://user-images.githubusercontent.com/12690315/95007359-ca385200-0649-11eb-8383-627c9750bda8.png)\n\n<br><br>\n\n### With your ParticleSystem prefab\n\n1. Select `Game Object/UI/ParticleSystem (Empty)` to create UIParticle.  \n![empty](https://user-images.githubusercontent.com/12690315/95007362-cb697f00-0649-11eb-8a09-29b0a13791e4.png)\n2. Drag & drop your ParticleSystem prefab on UIParticle.  \n![particle3](https://user-images.githubusercontent.com/12690315/95007356-c6a4cb00-0649-11eb-9316-562f4bce3f31.png)\n\n<br><br>\n\n### With `Mask` or `MaskRect2D` component\n\nIf you want to mask particles, set a stencil supported shader (such as `UI/UIAdditive`) to material for ParticleSystem.\n\n![](https://user-images.githubusercontent.com/12690315/95017591-3b512700-0695-11eb-864e-04166ea1809a.png)\n\n\n<br><br>\n\n### Script usage\n\n```cs\n// Instant ParticleSystem prefab with UIParticle on runtime.\nvar go = GameObject.Instantiate(prefab);\nvar uiParticle = go.AddComponent<UIParticle>();\n\n// Play/Stop the controled ParticleSystems.\nuiParticle.Play();\nuiParticle.Stop();\n```\n\n<br><br><br><br>\n\n## Development Note\n\n### Animatable material property\n\n![](https://user-images.githubusercontent.com/12690315/53286323-2d94a980-37b0-11e9-8afb-c4a207805ff2.gif)\n\nAnimation clips can change the material properties of the Renderer, such as ParticleSystemRenderer.  \nIt uses MaterialPropertyBlock so it does not create new material instances.  \nUsing material properties, you can change UV animation, scale and color etc.\n\nWell, there is a component called CanvasRenderer.  \nIt is used by all Graphic components for UI (Text, Image, Raw Image, etc.) including UIParticle.  \nHowever, It is **NOT** a Renderer.  \nTherefore, in UIParticle, changing ParticleSystemRenderer's MaterialPropertyBlock by animation clip is ignored.\n\nTo prevent this, Use \"Animatable Material Property\".  \n\"Animatable Material Property\" gets the necessary properties from ParticleSystemRenderer's MaterialPropertyBlock and sets them to the CanvasRenderer's material. \n\n\n\n<br><br><br><br>\n\n## Contributing\n\n### Issues\n\nIssues are very valuable to this project.\n\n- Ideas are a valuable source of contributions others can make\n- Problems show where this project is lacking\n- With a question you show where contributors can improve the user experience\n\n### Pull Requests\n\nPull requests are, a great way to get your ideas into this repository.  \nSee [CONTRIBUTING.md](/../../blob/develop/CONTRIBUTING.md).\n\n### Support\n\nThis is an open source project that I am developing in my spare time.  \nIf you like it, please support me.  \nWith your support, I can spend more time on development. :)\n\n[![](https://user-images.githubusercontent.com/12690315/50731629-3b18b480-11ad-11e9-8fad-4b13f27969c1.png)](https://www.patreon.com/join/mob_sakai?)  \n[![](https://user-images.githubusercontent.com/12690315/66942881-03686280-f085-11e9-9586-fc0b6011029f.png)](https://github.com/users/mob-sakai/sponsorship)\n\n\n\n<br><br><br><br>\n\n## License\n\n* MIT\n\n\n\n## Author\n\n* ![](https://user-images.githubusercontent.com/12690315/96986908-434a0b80-155d-11eb-8275-85138ab90afa.png) [mob-sakai](https://github.com/mob-sakai) [![](https://img.shields.io/twitter/follow/mob_sakai.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mob_sakai) ![GitHub followers](https://img.shields.io/github/followers/mob-sakai?style=social)\n\n\n\n## See Also\n\n* GitHub page : https://github.com/mob-sakai/ParticleEffectForUGUI\n* Releases : https://github.com/mob-sakai/ParticleEffectForUGUI/releases\n* Issue tracker : https://github.com/mob-sakai/ParticleEffectForUGUI/issues\n* Change log : https://github.com/mob-sakai/ParticleEffectForUGUI/blob/upm/CHANGELOG.md",
+  "_attachments": {}
+}
