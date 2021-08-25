@@ -1,2 +1,2 @@
-# Redirect with a 301
 /-/all    /-/all.json    301
+/*        /packages/:splat.json    301
