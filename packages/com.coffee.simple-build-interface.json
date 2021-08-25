@@ -1,0 +1,272 @@
+{
+  "name": "com.coffee.simple-build-interface",
+  "versions": {
+    "1.0.0": {
+      "name": "com.coffee.simple-build-interface",
+      "displayName": "Simple Build Interface",
+      "description": "Add simple build interface for CLI.\n\n  -executeMethod SimpleBuildInterface.Build\n  [-out <output_dir>]\n  [-buildOptions <BuildOptions>]\n  [-scenes <scene_modifier>]",
+      "version": "1.0.0",
+      "unity": "2018.1",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/SimpleBuildInterface.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "build",
+        "cli"
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "9cdf6cdd1c4e5fb2441bbe418db6964103dd1594",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/SimpleBuildInterface/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/SimpleBuildInterface#readme",
+      "_id": "com.coffee.simple-build-interface@1.0.0",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-YTwPWrvKj4p1pAQAYQVWHnKoTkeiOZ4YrhUaZeJQB7okQne82+mOYMGNmTG81zgAWgoT7ShxB7owguCb8ygOaQ==",
+        "shasum": "1e0ea106e09b461ab79cfcb158682c7955069bb2",
+        "tarball": "https://package.openupm.com/com.coffee.simple-build-interface/-/com.coffee.simple-build-interface-1.0.0.tgz"
+      },
+      "contributors": []
+    },
+    "1.1.0": {
+      "name": "com.coffee.simple-build-interface",
+      "displayName": "Simple Build Interface",
+      "description": "Add simple build interface for CLI.\n\n  -executeMethod SimpleBuildInterface.Build\n  [-out <output_dir>]\n  [-buildOptions <BuildOptions>]\n  [-scenes <scene_modifier>]",
+      "version": "1.1.0",
+      "unity": "2018.1",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/SimpleBuildInterface.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "build",
+        "cli"
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "9f52300fd6da19b6ccbf1bdddda6246d70b40557",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/SimpleBuildInterface/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/SimpleBuildInterface#readme",
+      "_id": "com.coffee.simple-build-interface@1.1.0",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-deKW+bZASpQIvKm7VKp6AeMxxOXsBgpYOe/mVxfCvy0byCa6XCMuRGW4NaEKhQbbIM8DSn5AxCcCJ+wudQr3+g==",
+        "shasum": "26463cbad63494b6c05f10062759e6adb3d7045e",
+        "tarball": "https://package.openupm.com/com.coffee.simple-build-interface/-/com.coffee.simple-build-interface-1.1.0.tgz"
+      },
+      "contributors": []
+    },
+    "1.2.0": {
+      "name": "com.coffee.simple-build-interface",
+      "displayName": "Simple Build Interface",
+      "description": "Add simple build interface for CLI.\n\n  -executeMethod SimpleBuildInterface.Build\n  [-out <output_dir>]\n  [-buildOptions <BuildOptions>]\n  [-scenes <scene_modifier>]",
+      "version": "1.2.0",
+      "unity": "2018.1",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/SimpleBuildInterface.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "build",
+        "cli"
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "c23e20411cef29dcd6c48950d29c360042f91e3e",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/SimpleBuildInterface/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/SimpleBuildInterface#readme",
+      "_id": "com.coffee.simple-build-interface@1.2.0",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-uSQXeT0q24fTM7giLC1bpP/apPo9z8xi0BnbbopaH8FWt2BBYHK8qScGQxMxLd0CdfV5AIizdKDX7rsssySHpA==",
+        "shasum": "c80362e46babac84e9dbd5b26f34d8c4c31a05f0",
+        "tarball": "https://package.openupm.com/com.coffee.simple-build-interface/-/com.coffee.simple-build-interface-1.2.0.tgz"
+      },
+      "contributors": []
+    },
+    "1.2.1": {
+      "name": "com.coffee.simple-build-interface",
+      "displayName": "Simple Build Interface",
+      "description": "Add simple build interface for CLI.\n\n  -executeMethod SimpleBuildInterface.Build\n  [-out <output_dir>]\n  [-buildOptions <BuildOptions>]\n  [-scenes <scene_modifier>]",
+      "version": "1.2.1",
+      "unity": "2018.1",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/SimpleBuildInterface.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "build",
+        "cli"
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "9ba2e051e092bab55717da0b4fd03eb7683af787",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/SimpleBuildInterface/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/SimpleBuildInterface#readme",
+      "_id": "com.coffee.simple-build-interface@1.2.1",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-2G2YIBouV2vwtgeoSO5ClgzfyeypUntm+TsEAVDXZNMkMQ/G0S2TqiI0HCSljBjnPDEamSSfjdlIbW6EEE8Mng==",
+        "shasum": "9e9a2ace0514b33553605809b9ce67fd5d568001",
+        "tarball": "https://package.openupm.com/com.coffee.simple-build-interface/-/com.coffee.simple-build-interface-1.2.1.tgz"
+      },
+      "contributors": []
+    },
+    "1.2.2": {
+      "name": "com.coffee.simple-build-interface",
+      "displayName": "Simple Build Interface",
+      "description": "Add simple build interface for CLI.\n\n  -executeMethod SimpleBuildInterface.Build\n  [-out <output_dir>]\n  [-buildOptions <BuildOptions>]\n  [-scenes <scene_modifier>]",
+      "version": "1.2.2",
+      "unity": "2018.1",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/SimpleBuildInterface.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "dependencies": {},
+      "keywords": [
+        "build",
+        "cli"
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "40af950d588231b21aab83eddba47d1b4672fa99",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/SimpleBuildInterface/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/SimpleBuildInterface#readme",
+      "_id": "com.coffee.simple-build-interface@1.2.2",
+      "_nodeVersion": "10.23.2",
+      "_npmVersion": "6.14.10",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-11ImDNLVC67P2sVV7vt6azVMDx90tPx+iHhF1CS0MQCVJsgg5871aJYFNRR2FF9BuX3NAIKFmzzGQAQWPxiucw==",
+        "shasum": "c544b5eb92ef9d93a3fb68fdf6f7139e5b9763fc",
+        "tarball": "https://package.openupm.com/com.coffee.simple-build-interface/-/com.coffee.simple-build-interface-1.2.2.tgz"
+      },
+      "contributors": []
+    }
+  },
+  "time": {
+    "modified": "2021-02-11T05:04:32.239Z",
+    "created": "2020-11-09T16:43:23.600Z",
+    "1.0.0": "2020-11-09T16:43:23.600Z",
+    "1.1.0": "2020-11-10T13:37:32.985Z",
+    "1.2.0": "2020-11-10T16:46:26.493Z",
+    "1.2.1": "2020-12-26T00:53:21.035Z",
+    "1.2.2": "2021-02-11T05:04:32.239Z"
+  },
+  "users": {},
+  "dist-tags": {
+    "latest": "1.2.2"
+  },
+  "_rev": "16-4645ffad94ae165e",
+  "_id": "com.coffee.simple-build-interface",
+  "readme": "Simple Build Interface for Unity CLI\n===\n\n[![](https://img.shields.io/npm/v/com.coffee.simple-build-interface?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.coffee.simple-build-interface/)\n[![](https://img.shields.io/github/v/release/mob-sakai/SimpleBuildInterface?include_prereleases)](https://github.com/mob-sakai/SimpleBuildInterface/releases)\n[![](https://img.shields.io/github/release-date/mob-sakai/SimpleBuildInterface.svg)](https://github.com/mob-sakai/SimpleBuildInterface/releases)  [![](https://img.shields.io/github/license/mob-sakai/SimpleBuildInterface.svg)](https://github.com/mob-sakai/SimpleBuildInterface/blob/master/LICENSE.txt)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](http://makeapullrequest.com)  \n![](https://img.shields.io/badge/Unity%202018.3+-supported-blue.svg)  \n![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mob-sakai/CSharpCompilerSettingsForUnity/unity-test)\n[![Test](https://mob-sakai.testspace.com/spaces/130862/badge?token=43a50d2fc998aa362d36934597de0c84527e5690)](https://mob-sakai.testspace.com/spaces/130862)\n[![CodeCoverage](https://mob-sakai.testspace.com/spaces/130862/metrics/99758/badge)](https://mob-sakai.testspace.com/spaces/130862/current/Code%20Coverage/Code%20Coverage\")\n\n\n<< [Description](#Description) | [Installation](#installation) | [Usage](#usage) | [Development Note](#development-note) | [Change log](https://github.com/mob-sakai/SimpleBuildInterface/blob/master/CHANGELOG.md) >>\n\n\n\n<br><br><br><br>\n\n## Description\n\nUnity supports to build for standalone platforms (Windows/macOS/Linux) from the command line.\n\n```sh\n# Lunch Unity to ...\n/Applications/Unity/Unity.app/Contents/MacOS/Unity -batchmode -projectPath .\n\n# build for specific standalone platform.\n... -buildLinux64Player <pathname>\n... -buildOSXUniversalPlayer <pathname>\n... -buildWindowsPlayer <pathname>\n... -buildWindows64Player <pathname>\n```\n\nThis plugin provides a simple build interface to build all platforms **without `executeMethod` option**.\n\n```sh\n# Lunch Unity to ...\n/Applications/Unity/Unity.app/Contents/MacOS/Unity -batchmode -projectPath .\n\n# build for specific platform.\n... -build -buildTarget WebGL\n```\n\nThis command is equivalent to run `Build Settings > Build` on WebGL platform.\n\n![](https://user-images.githubusercontent.com/12690315/98614365-a13b6900-233b-11eb-8529-05a49fc7000e.png)\n\nSee [Usage](#usage) for details.\n\n<br><br><br><br>\n\n## Installation\n\n### Requirement\n\n![](https://img.shields.io/badge/Unity%202018.3+-supported-blue.svg)\n\n### Using OpenUPM\n\nThis package is available on [OpenUPM](https://openupm.com).  \nYou can install it via [openupm-cli](https://github.com/openupm/openupm-cli).\n```\nopenupm add com.coffee.simple-build-interface\n```\n\n### Using Git\n\nFind `Packages/manifest.json` in your project and add a line to `dependencies` field.\n\n```\n\"com.coffee.simple-build-interface\": \"https://github.com/mob-sakai/SimpleBuildInterface.git\"\n```\n\nTo update the package, change suffix `#{version}` to the target version.\n\n* e.g. `\"com.coffee.simple-build-interface\": \"https://github.com/mob-sakai/SimpleBuildInterface.git#1.0.0\",`\n\nOr, use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) to install and update the package.\n\n\n\n<br><br><br><br>\n\n## Usage\n\n```sh\n# Lunch Unity to ...\n/Applications/Unity/Unity.app/Contents/MacOS/Unity -batchmode -projectPath .\n\n# build for current platform.\n... -build\n\n# build for specific platform.\n... -build -buildTarget WebGL\n\n# build with full-option.\n... -build -buildTarget WebGL \\\n  -out \"production_build\" \\\n  -buildOptions \"Development;!ConnectWithProfiler\" \\\n  -scenes \"Level1;!EditorLevel1\" \\\n  -assetBundleManifestPath \"AssetBundles/manifest\" \\\n  -extraScriptingDefines \"EXTRA_SYMBOL;EXTRA_SYMBOL2\"\n```\n\n| Option                                 | Description                                                                        |\n| -------------------------------------- | ---------------------------------------------------------------------------------- |\n| `-build`                               | **(Required)**<br>Build the project for current. platform                          |\n| `-out <path>`                          | Output path<br>Default: `{BuildTarget}_Build`.                                     |\n| `-buildOptions <options,...>`          | Add/remove [BuildOptions][opt] to build. <sup>[1](#fn1)</sup> <sup>[2](#fn2)</sup> |\n| `-scenes <names,...>`                  | Add/remove scene names to build.  <sup>[1](#fn1)</sup> <sup>[2](#fn2)</sup>        |\n| `-assetBundleManifestPath <path>`      | Path to AssetBundleManifest.                                                       |\n| `-extraScriptingDefines <symbols,...>` | Extra scripting defines for building player.  <sup>[1](#fn1)</sup>                 |\n\n<br>\n\n<a name=\"fn1\">1</a>: Multiple values must be separated by a semi-colon (`;`) or a comma (`,`).  \n<a name=\"fn2\">2</a>: Prefix 'not' (`!`) to exclude the specified value.\n\n[opt]: https://docs.unity3d.com/ScriptReference/BuildOptions.html\n\n<br><br><br><br>\n\n## Development Note\n\n### Execution order\n\n1. `InitializeOnLoad`\n2. `InitializeOnLoadMethod`\n3. `DidReloadScripts`\n4. The method specified by the `-executeMethod` option\n5. **Build by this plugin**\n\nYou can customize the build parameters using any method you like. :)\n\n<br><br><br><br>\n\n## Contributing\n\n### Issues\n\nIssues are very valuable to this project.\n\n- Ideas are a valuable source of contributions others can make\n- Problems show where this project is lacking\n- With a question you show where contributors can improve the user experience\n\n### Pull Requests\n\nPull requests are, a great way to get your ideas into this repository.  \nSee [sandbox/README.md](https://github.com/mob-sakai/SimpleBuildInterface/blob/sandbox/README.md).\n\n### Support\n\nThis is an open source project that I am developing in my spare time.  \nIf you like it, please support me.  \nWith your support, I can spend more time on development. :)\n\n[![](https://user-images.githubusercontent.com/12690315/50731629-3b18b480-11ad-11e9-8fad-4b13f27969c1.png)](https://www.patreon.com/join/mob_sakai?)  \n[![](https://user-images.githubusercontent.com/12690315/66942881-03686280-f085-11e9-9586-fc0b6011029f.png)](https://github.com/users/mob-sakai/sponsorship)\n\n\n\n<br><br><br><br>\n\n## License\n\n* MIT\n\n\n\n## Author\n\n* ![](https://user-images.githubusercontent.com/12690315/96986908-434a0b80-155d-11eb-8275-85138ab90afa.png) [mob-sakai](https://github.com/mob-sakai) [![](https://img.shields.io/twitter/follow/mob_sakai.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mob_sakai) ![GitHub followers](https://img.shields.io/github/followers/mob-sakai?style=social)\n\n\n\n## See Also\n\n* GitHub page : https://github.com/mob-sakai/SimpleBuildInterface\n* Releases : https://github.com/mob-sakai/SimpleBuildInterface/releases\n* Issue tracker : https://github.com/mob-sakai/SimpleBuildInterface/issues\n* Change log : https://github.com/mob-sakai/SimpleBuildInterface/blob/master/CHANGELOG.md",
+  "_attachments": {}
+}
