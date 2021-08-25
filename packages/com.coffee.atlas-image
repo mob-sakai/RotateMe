@@ -1,0 +1,74 @@
+{
+  "name": "com.coffee.atlas-image",
+  "versions": {
+    "1.0.0": {
+      "name": "com.coffee.atlas-image",
+      "displayName": "UI Atlas Image",
+      "description": "A graphic component use SpriteAtlas for uGUI.\nIn addition, add useful sprite selector and border editor to the inspector.",
+      "version": "1.0.0",
+      "unity": "2017.1",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mob-sakai/AtlasImage.git"
+      },
+      "author": {
+        "name": "mob-sakai",
+        "email": "sakai861104@gmail.com",
+        "url": "https://github.com/mob-sakai"
+      },
+      "keywords": [
+        "ui"
+      ],
+      "dependencies": {},
+      "samples": [
+        {
+          "displayName": "Demo",
+          "description": "UI Atlas Image Demo",
+          "path": "Samples~/Demo"
+        }
+      ],
+      "publishConfig": {
+        "registry": "https://package.openupm.com"
+      },
+      "gitHead": "df8de313cc8d8a1d3bd1af3d1627fba264eeb957",
+      "readmeFilename": "README.md",
+      "bugs": {
+        "url": "https://github.com/mob-sakai/AtlasImage/issues"
+      },
+      "homepage": "https://github.com/mob-sakai/AtlasImage#readme",
+      "_id": "com.coffee.atlas-image@1.0.0",
+      "_nodeVersion": "10.23.0",
+      "_npmVersion": "6.14.8",
+      "_npmUser": {
+        "name": "openupm",
+        "email": "openupm"
+      },
+      "maintainers": [
+        {
+          "name": "openupm",
+          "email": "openupm"
+        }
+      ],
+      "dist": {
+        "integrity": "sha512-TouGR6qpML6SQLOEdn5LIS09syPyMrcdg9S8qx3sSVbOCe86xdnWrmpF97ARdvhOBqXzat8pr3ObMSGVCZTwXg==",
+        "shasum": "5e54b6c5195316c1b0c62a33548158748e760c71",
+        "tarball": "https://package.openupm.com/com.coffee.atlas-image/-/com.coffee.atlas-image-1.0.0.tgz"
+      },
+      "contributors": []
+    }
+  },
+  "time": {
+    "modified": "2020-12-28T15:59:37.868Z",
+    "created": "2020-12-28T15:59:37.868Z",
+    "1.0.0": "2020-12-28T15:59:37.868Z"
+  },
+  "users": {},
+  "dist-tags": {
+    "latest": "1.0.0"
+  },
+  "_rev": "4-0361e0c7e188ca66",
+  "_id": "com.coffee.atlas-image",
+  "readme": "Atlas Image\n===\n\nA graphic component use `SpriteAtlas` for uGUI.  \nIn addition, add useful **sprite picker** and **border editor** to the inspector.\n\n![image](https://user-images.githubusercontent.com/12690315/39434547-d5f34956-4cd3-11e8-82b1-f7f2f7be953a.png)\n\n[![](https://img.shields.io/npm/v/com.coffee.atlas-image?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.coffee.atlas-image/)\n[![](https://img.shields.io/github/v/release/mob-sakai/AtlasImage?include_prereleases)](https://github.com/mob-sakai/AtlasImage/releases)\n[![](https://img.shields.io/github/release-date/mob-sakai/AtlasImage.svg)](https://github.com/mob-sakai/AtlasImage/releases)  [![](https://img.shields.io/github/license/mob-sakai/AtlasImage.svg)](https://github.com/mob-sakai/AtlasImage/blob/main/LICENSE)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](http://makeapullrequest.com)  \n![](https://img.shields.io/badge/Unity%202017.1+-supported-blue.svg)  \n\n<< [Description](#Description) | [Demo](#demo) | [Installation](#installation) | [Usage](#usage) | [Development Note](#development-note) | [Change log](https://github.com/mob-sakai/AtlasImage/blob/main/CHANGELOG.md) >>\n\n\n\n<br><br><br><br>\n\n## Description\n\nAre you still fatigued with `SpriteAtlas` and `Image`?  \n* No interface for SpriteAtlas\n    * Support only `Sprite`.\n    * We pack sprites for drawing call optimization, but there is no interface.\n* Confusing sprite picker\n    * You can select sprites using object picker.  \n    * Opject picker displays **all sprites in the project**...  \n    * Do you know which sprite is included in atlas?\n* Troublesome border setting\n    * You can edit sprite border using sprite editor.\n    * It is troublesome to select a sprite, open a sprite editor, and edit the border.\n\n\n`AtlasImage` provides useful feature to use `SpriteAtlas` for UI!\n\n### Sprite for renderring can be changed with a SpriteAtlas or a sprite name.\n\n```cs\natlasImage.spriteAtlas = Resources.Load(\"A SpriteAtlas name\") as SpriteAtlas;\natlasImage.spriteName = \"A sprite name in the SpriteAtlas\";\n```\n\n### In the inspector, sprite picker displays only sprites in the SpriteAtlas.\n\n![image](https://user-images.githubusercontent.com/12690315/39434547-d5f34956-4cd3-11e8-82b1-f7f2f7be953a.png)\n\n\n### You can edit the border in the preview window.\n\n![image](https://user-images.githubusercontent.com/12690315/39434440-869e54ea-4cd3-11e8-9506-cdf0b62207ac.png)\n\n### Convert `Image` to `AtlasImage` by context menu.\n\n\n\n<br><br><br><br>\n\n## Demo\n\n\n\n<br><br><br><br>\n\n## Installation\n\n### Requirement\n\n* Unity 2017.1 or later\n\n### (For Unity 2018.3 or later) Using OpenUPM\n\nThis package is available on [OpenUPM](https://openupm.com).  \nYou can install it via [openupm-cli](https://github.com/openupm/openupm-cli).\n```\nopenupm add com.coffee.atlas-image\n```\n\n### (For Unity 2018.3 or later) Using Git\n\nFind the manifest.json file in the Packages folder of your project and add a line to `dependencies` field.\n\n* Major version: ![](https://img.shields.io/github/v/release/mob-sakai/AtlasImage)  \n`\"com.coffee.atlas-image\": \"https://github.com/mob-sakai/AtlasImage.git\"`\n\nTo update the package, change suffix `#{version}` to the target version.\n\n* e.g. `\"com.coffee.atlas-image\": \"https://github.com/mob-sakai/AtlasImage.git#1.0.0\",`\n\nOr, use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) to install and update the package.\n\n#### For Unity 2018.2 or earlier\n\n1. Download a source code zip file from [Releases](https://github.com/mob-sakai/AtlasImage/releases) page\n2. Extract it\n3. Import it into the following directory in your Unity project\n   - `Packages` (It works as an embedded package. For Unity 2018.1 or later)\n   - `Assets` (Legacy way. For Unity 2017.1 or later)\n\n\n\n<br><br><br><br>\n\n## Usage\n\n1. Download `AtlasImage.unitypackage` from [Releases](https://github.com/mob-sakai/AtlasImage/releases).\n1. Import the package into your Unity project. Go to `Assets > Import Package > Custom Package` and select `AtlasImage.unitypackage`.\n1. Enable SpriteAtlas. Go to `Edit > Project Settings > Editor`, and change the sprite packing mode from Disabled to either:\n    * Enabled for Builds, when you want to use packing for builds only and not when in Play mode.\n    * Always Enabled when you want the packed Sprite to resolve its texture from the Sprite Atlas during Play mode, but resolve its texture from the original Texture during Edit mode.\n1. Add `AtlasImage` component instead of `Image` component from `Add Component` in inspector.\n1. Select the `SpriteAtlas` by dropdown manu, and select the sprite with object piker.\n1. Enjoy!\n\n\n\n<br><br><br><br>\n\n## Development Note\n\n### How to work?\n\n1. Pack atlas on open select sprite window.\n```cs\nstatic void PackAtlas(SpriteAtlas atlas)\n{\n    System.Type\n        .GetType(\"UnityEditor.U2D.SpriteAtlasUtility, UnityEditor\")\n        .GetMethod(\"PackAtlases\", BindingFlags.NonPublic | BindingFlags.Static)\n        .Invoke(null, new object[]{ new []{ atlas }, EditorUserBuildSettings.activeBuildTarget });\n}\n```\n1. Add label `<atlas-guid>` to sprites in atlas.\n```cs\nstatic string SetAtlasLabelToSprites(SpriteAtlas atlas, bool add)\n{\n    // GUID for the atlas. \n    string[] atlasLabel = { AssetDatabase.AssetPathToGUID(AssetDatabase.GetAssetPath(atlas)) };\n\n    // Packed sprites in atlas.\n    SerializedProperty spPackedSprites = new SerializedObject(atlas).FindProperty(\"m_PackedSprites\");\n    Sprite[] sprites = Enumerable.Range(0, spPackedSprites.arraySize)\n        .Select(index => spPackedSprites.GetArrayElementAtIndex(index).objectReferenceValue)\n        .OfType<Sprite>()\n        .ToArray();\n\n    // Add/remove label to sprites.\n    foreach (var s in sprites)\n    {\n        string[] newLabels = add\n            ? AssetDatabase.GetLabels(s).Union(atlasLabel).ToArray()\n            : AssetDatabase.GetLabels(s).Except(atlasLabel).ToArray();\n        AssetDatabase.SetLabels(s, newLabels);\n    }\n    \n    return atlasLabel[0];\n}\n```\n1. Open the object picker with label. It filter the sprites to display.\n```cs\nEditorGUIUtility.ShowObjectPicker<Sprite>(atlas.GetSprite(spriteName), false, \"l:\" + atlasLabel, controlID);\n```\n1. On closed the object picker, remove label from sprites in atlas.\n\n\n\n<br><br><br><br>\n\n## Contributing\n\n### Issues\n\nIssues are very valuable to this project.\n\n- Ideas are a valuable source of contributions others can make\n- Problems show where this project is lacking\n- With a question you show where contributors can improve the user experience\n\n### Pull Requests\n\nPull requests are, a great way to get your ideas into this repository.  \nSee [sandbox/README.md](https://github.com/mob-sakai/AtlasImage/blob/sandbox/README.md).\n\n### Support\n\nThis is an open source project that I am developing in my spare time.  \nIf you like it, please support me.  \nWith your support, I can spend more time on development. :)\n\n[![](https://user-images.githubusercontent.com/12690315/50731629-3b18b480-11ad-11e9-8fad-4b13f27969c1.png)](https://www.patreon.com/join/mob_sakai?)  \n[![](https://user-images.githubusercontent.com/12690315/66942881-03686280-f085-11e9-9586-fc0b6011029f.png)](https://github.com/users/mob-sakai/sponsorship)\n\n\n\n<br><br><br><br>\n\n## License\n\n* MIT\n\n\n\n## Author\n\n* ![](https://user-images.githubusercontent.com/12690315/96986908-434a0b80-155d-11eb-8275-85138ab90afa.png) [mob-sakai](https://github.com/mob-sakai) [![](https://img.shields.io/twitter/follow/mob_sakai.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mob_sakai) ![GitHub followers](https://img.shields.io/github/followers/mob-sakai?style=social)\n\n\n\n## See Also\n\n* GitHub page : https://github.com/mob-sakai/AtlasImage\n* Releases : https://github.com/mob-sakai/AtlasImage/releases\n* Issue tracker : https://github.com/mob-sakai/AtlasImage/issues\n* Change log : https://github.com/mob-sakai/AtlasImage/blob/main/CHANGELOG.md",
+  "_attachments": {}
+}
