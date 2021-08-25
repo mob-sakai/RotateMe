@@ -52,6 +52,8 @@
         }
       ],
       "dist": {
+        "integrity": "sha512-areCepIjeCle4zWV5j7K+EeZ7uBU02B8MO2yI562iynz+mUi/iCFbdX53ZuajV/VbybAkBy5e3m8kUEDn/engw==",
+        "shasum": "d9b2bb1f6a1fae3b3fbff0a851ebf560444516b3",
         "tarball": "https://github.com/mob-sakai/UnmaskForUGUI/archive/refs/tags/1.3.0.tar.gz"
       },
       "contributors": []
