@@ -3,17 +3,6 @@
   "versions": {
     "1.3.0": {
       "name": "com.coffee.unmask",
-      "displayName": "UI Unmaskxx",
-      "description": "Reverse mask for uGUI element in Unity.x",
-      "version": "1.3.0",
-      "unity": "2017.1",
-      "license": "MIT x",
-      "author": {
-        "name": "mob-sakai x",
-        "email": "sakai861104@gmail.com",
-        "url": "https://github.com/mob-sakai"
-      },
-      "dependencies": {},
       "dist": {
         "shasum": "d9b2bb1f6a1fae3b3fbff0a851ebf560444516b3",
         "tarball": "https://github.com/mob-sakai/UnmaskForUGUI/archive/refs/tags/1.3.0.tar.gz"
