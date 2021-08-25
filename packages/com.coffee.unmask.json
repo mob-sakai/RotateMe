@@ -8,68 +8,22 @@
       "version": "1.3.0",
       "unity": "2017.1",
       "license": "MIT",
-      "repository": {
-        "type": "git",
-        "url": "git+https://github.com/mob-sakai/UnmaskForUGUI.git"
-      },
       "author": {
         "name": "mob-sakai",
         "email": "sakai861104@gmail.com",
         "url": "https://github.com/mob-sakai"
       },
       "dependencies": {},
-      "keywords": [
-        "ui",
-        "mask"
-      ],
-      "samples": [
-        {
-          "displayName": "Demo",
-          "description": "UI Unmask Demo",
-          "path": "Samples~/Demo"
-        }
-      ],
-      "publishConfig": {
-        "registry": "https://package.openupm.com"
-      },
-      "gitHead": "bba7df9616502051c4ab993077fb53316fd760a0",
-      "readmeFilename": "README.md",
-      "bugs": {
-        "url": "https://github.com/mob-sakai/UnmaskForUGUI/issues"
-      },
-      "homepage": "https://github.com/mob-sakai/UnmaskForUGUI#readme",
-      "_id": "com.coffee.unmask@1.3.0",
-      "_nodeVersion": "10.24.1",
-      "_npmVersion": "6.14.12",
-      "_npmUser": {
-        "name": "openupm",
-        "email": "openupm"
-      },
-      "maintainers": [
-        {
-          "name": "openupm",
-          "email": "openupm"
-        }
-      ],
       "dist": {
-        "integrity": "sha512-areCepIjeCle4zWV5j7K+EeZ7uBU02B8MO2yI562iynz+mUi/iCFbdX53ZuajV/VbybAkBy5e3m8kUEDn/engw==",
         "shasum": "d9b2bb1f6a1fae3b3fbff0a851ebf560444516b3",
         "tarball": "https://github.com/mob-sakai/UnmaskForUGUI/archive/refs/tags/1.3.0.tar.gz"
-      },
-      "contributors": []
+      }
     }
   },
   "time": {
-    "modified": "2021-06-29T13:31:25.710Z",
-    "created": "2019-12-25T16:21:42.997Z",
     "1.3.0": "2021-06-29T13:31:25.710Z"
   },
-  "users": {},
   "dist-tags": {
     "latest": "1.3.0"
-  },
-  "_rev": "20-473817427ded4c6f",
-  "_id": "com.coffee.unmask",
-  "readme": "Unmask For UGUI\n===\n\nReverse mask for uGUI element in Unity.\n\n![](https://user-images.githubusercontent.com/12690315/51747120-e1d8dc80-20eb-11e9-952e-a67915af1294.png)\n\n[![](https://img.shields.io/npm/v/com.coffee.unmask?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.coffee.unmask/)\n[![](https://img.shields.io/github/v/release/mob-sakai/UnmaskForUGUI?include_prereleases)](https://github.com/mob-sakai/UnmaskForUGUI/releases)\n[![](https://img.shields.io/github/release-date/mob-sakai/UnmaskForUGUI.svg)](https://github.com/mob-sakai/UnmaskForUGUI/releases)\n[![](https://img.shields.io/github/license/mob-sakai/UnmaskForUGUI.svg)](https://github.com/mob-sakai/UnmaskForUGUI/blob/main/LICENSE.txt)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](http://makeapullrequest.com)\n[![](https://img.shields.io/twitter/follow/mob_sakai.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mob_sakai)\n\n![](https://img.shields.io/badge/Unity%205.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202017.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202018.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202019.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202020.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202021.x-supported-blue.svg)\n\n![](https://img.shields.io/badge/Universal%20RP-supported-blue.svg)  \n\n<< [Description](#description) | [WebGL Demo](#demo) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) >>\n\n\n\n<br><br><br><br>\n\n## Description\n\nUnmask provides the following features:\n1. Reverse mask\n2. Ray through the unmasked rectangle\n3. Following another object\n4. Support nesting\n\n| Component | Features | Screenshot |\n|-|-|-|\n|**Unmask**|Reverse masking for parent Mask component.<br><br>**Fit Target / Fit On Late Update:** Fit graphic's transform to target transform on LateUpdate.<br>**Only For Children:** Unmask affects only for children.<br>**Show Unmask Graphic:** Show the graphic that is associated with the unmask render area.|<img src=\"https://user-images.githubusercontent.com/12690315/51745704-0e3e2a00-20e7-11e9-8da8-5abb1c5193bc.png\" width=\"600px\">|\n|**UnmaskRaycastFilter**|The ray Passes through the unmasked rectangle.<br>You can click on the unmasked button on the back side.|<img src=\"https://user-images.githubusercontent.com/12690315/51745958-ebf8dc00-20e7-11e9-8cfc-8174e6ab2b7c.png\" width=\"600px\">|\n\n\n\n<br><br><br><br>\n## Demo\n\n[WebGL Demo](http://mob-sakai.github.io/UnmaskForUGUI)\n\n![demo](https://user-images.githubusercontent.com/12690315/46986251-4e296480-d129-11e8-8e3a-2bb0e5fbe533.gif)\n\n\n\n<br><br><br><br>\n\n## Installation\n\n### Requirement\n\n![](https://img.shields.io/badge/Unity%205.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202017.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202018.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202019.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202020.x-supported-blue.svg)\n![](https://img.shields.io/badge/Unity%202021.x-supported-blue.svg)\n\n![](https://img.shields.io/badge/Universal%20RP-supported-blue.svg)\n\n### Using OpenUPM\n\nThis package is available on [OpenUPM](https://openupm.com).  \nYou can install it via [openupm-cli](https://github.com/openupm/openupm-cli).\n```\nopenupm add com.coffee.unmask\n```\n\n### Using Git\n\nFind the manifest.json file in the Packages folder of your project and edit it to look like this:\n```\n{\n  \"dependencies\": {\n    \"com.coffee.unmask\": \"https://github.com/mob-sakai/UnmaskForUGUI.git\",\n    ...\n  },\n}\n```\n\nTo update the package, change suffix `#{version}` to the target version.\n\n* e.g. `\"com.coffee.unmask\": \"https://github.com/mob-sakai/UnmaskForUGUI.git#2.0.0\",`\n\nOr, use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) to install and update the package.\n\n### For Unity 2018.2 or earlier\n\n1. Download a source code zip file from [Releases](https://github.com/mob-sakai/UnmaskForUGUI/releases) page\n2. Extract it\n3. Import it into the following directory in your Unity project\n   - `Packages` (It works as an embedded package. For Unity 2018.1 or later)\n   - `Assets` (Legacy way. For Unity 2017.1 or later)\n\n\n\n<br><br><br><br>\n\n## How to play demo\n\n- For Unity 2019.1 or later\n  - Open `Package Manager` window and select `UI Unmask` package in package list and click `Demo > Import in project` button\n- For Unity 2018.4 or earlier\n  - Click `Assets/Samples/UI Unmask/Import Demo` from menu\n\nThe assets will be imported into `Assets/Samples/UI Unmask/{version}/Demo`.  \nOpen `UIUnmask_Demo` scene and play it.\n\n\n\n<br><br><br><br>\n\n## Usage\n\nCreate Object From Menu (`GameObject > UI > Unmask > ***`)\n\n|Menu|Screenshot|\n|--|--|\n|Tutorial Button|![](https://user-images.githubusercontent.com/12690315/123756826-4a00fd80-d8f8-11eb-8fb4-5d4399a3f907.png)|\n|Iris Shot|![](https://user-images.githubusercontent.com/12690315/123756809-45d4e000-d8f8-11eb-8bc9-767b81b8da42.png)|\n\n\n\n<br><br><br><br>\n\n## Example of using\n\n| Case | Description |Screenshot |\n|-|-|-|\n|Unmasked text|Black screen is cut out with unmasked text.|![](https://user-images.githubusercontent.com/12690315/46914021-c6c9dd00-cfd2-11e8-9698-6332bac8fef5.png)|\n|Hole|Black screen is cut out with unmasked Image.|![](https://user-images.githubusercontent.com/12690315/46985696-9b580700-d126-11e8-9b4a-3d66180c9562.png)|\n|Tutorial button|In tutorial, only specific button can be pressed.|![](https://user-images.githubusercontent.com/12690315/46983810-30560280-d11d-11e8-86d5-b25117740df4.png)|\n|Iris in/out|Transition effect with iris in/out.|![](https://user-images.githubusercontent.com/12690315/46983811-30560280-d11d-11e8-8d81-b38679cf9970.gif)|\n\n\n\n<br><br><br><br>\n\n## Contributing\n\n### Issues\n\nIssues are very valuable to this project.\n\n- Ideas are a valuable source of contributions others can make\n- Problems show where this project is lacking\n- With a question you show where contributors can improve the user experience\n\n### Pull Requests\n\nPull requests are, a great way to get your ideas into this repository.  \nSee [CONTRIBUTING.md](/../../blob/main/CONTRIBUTING.md) and [develop](https://github.com/mob-sakai/UnmaskForUGUI/tree/develop) branch..\n\n### Support\n\nThis is an open source project that I am developing in my spare time.  \nIf you like it, please support me.  \nWith your support, I can spend more time on development. :)\n\n[![](https://user-images.githubusercontent.com/12690315/50731629-3b18b480-11ad-11e9-8fad-4b13f27969c1.png)](https://www.patreon.com/join/2343451?)  \n[![](https://user-images.githubusercontent.com/12690315/66942881-03686280-f085-11e9-9586-fc0b6011029f.png)](https://github.com/users/mob-sakai/sponsorship)\n\n\n\n\n<br><br><br><br>\n\n## License\n\n* MIT\n* © UTJ/UCL\n\n\n\n## Author\n\n[mob-sakai](https://github.com/mob-sakai)\n[![](https://img.shields.io/twitter/follow/mob_sakai.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mob_sakai) \n\n\n\n## See Also\n\n* GitHub page : https://github.com/mob-sakai/UnmaskForUGUI\n* Releases : https://github.com/mob-sakai/UnmaskForUGUI/releases\n* Issue tracker : https://github.com/mob-sakai/UnmaskForUGUI/issues\n* Change log : https://github.com/mob-sakai/UnmaskForUGUI/blob/main/CHANGELOG.md",
-  "_attachments": {}
+  }
 }
